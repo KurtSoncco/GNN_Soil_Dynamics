@@ -1,0 +1,95 @@
+;
+; Case 2a - 2D Model
+;
+model new
+model restore 'Model_2a_Geom.sav'
+model large-strain off
+
+; 
+fish define param
+	; 
+	; ------------------------- Excitation Parameters -------------------------
+	; 
+	tt = 15.00			    ; Total Dynamic Time
+	;
+	freq1 = 0.75			; Central Frequency of Wavelet 1
+	; 
+    ;
+	dyndt = 1.00e-4     	; Dynamic Time Step
+    ; 	
+	t01 = 1.4 + dyndt       ; Initial Time shift, (calculates to 1.4 in this case)
+	histdt = 1              ; Sampling Interval of History 
+	azang = 0               ; Azimuth Angle wrt X-Axis (0:sxz)
+	; 
+    ; 	
+	swvelocity = 2371.0      ; Shear Wave Velocity
+	mdensity = 2000.0       ; Mass Density
+	pratio = 0.30           ; Poisson's Ratio
+	; 
+	sigmas = -2*mdensity*swvelocity
+    ;
+    Facx = math.cos(azang*math.pi/180)
+    Facy = math.sin(azang*math.pi/180)
+    sigmax = sigmas*Facx
+    sigmay = sigmas*Facy
+end
+@param
+
+zone face skin 
+; Vicous damping
+;zone dynamic damping rayleigh 0.006495192 1.299037873
+
+; Boundary Conditions
+zone face apply quiet-tangential range group 'Bottom'
+zone face apply velocity-y 0
+
+; Wave
+fish define wave
+    wave = (1-2.0*(math.pi*freq1*(dynamic.time.total-t01))^2)*math.exp(-((math.pi*freq1*(dynamic.time.total-t01))^2))
+end
+zone face apply stress-shear @sigmax fish @wave range group 'Bottom'
+
+; Recording
+;
+zone history acceleration-x position 2.5 0
+zone history acceleration-x position 2.5 150
+;
+history interval @histdt
+model dynamic timestep fix @dyndt
+
+; Measure rate
+fish define startClock
+    global start = time.clock
+end
+
+fish define endClock
+    global time_run = time.clock - start
+end
+
+fish callback add startClock event zone_update_complete
+fish callback add endClock   event solve_complete
+;
+;
+
+
+model history name='time' dynamic time-total
+model solve time-total @tt
+
+[io.out(' Calculation time: '+ string(time_run) )]
+;
+; Write Histories
+directory input
+fish define dhwrite
+	;fname_time = 'timesteps.dat'
+    fname_dhx = 'downhole_xacc.dat'
+    fname_sfx = 'surface_xacc.dat'
+    ;
+    command
+        history export [1] vs "time" file @fname_dhx t
+        history export [2] vs "time" file @fname_sfx t
+    endcommand
+end
+
+@dhwrite
+
+
