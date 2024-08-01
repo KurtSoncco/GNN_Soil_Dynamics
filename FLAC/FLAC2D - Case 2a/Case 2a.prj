@@ -5,7 +5,7 @@
         "Version" : 9.1000004e+00 ,
         "Update" : 12 ,
         "Binary" : false ,
-        "DateTime" : "2024-07-31T12:09:16" ,
+        "DateTime" : "2024-08-01T15:33:11" ,
         "Format" : 0 ,
         "Dimension" : 2 
     },
@@ -302,7 +302,7 @@
     ],
     "Terminal" : {
         "MoveLists" : true ,
-        "LineLimit" : 12 
+        "LineLimit" : 11 
     },
     "ColorMap" : {
         "EMaps" : [ 
@@ -310,9 +310,9 @@
                 "Key" : "Group" ,
                 "Value" : [ 
                     {
-                        "Key" : "Default=Quadrilateral1" ,
+                        "Key" : "Default=FreeField" ,
                         "Value" : {
-                            "Color" : "#00ffffFF" ,
+                            "Color" : "#2e8b56FF" ,
                             "Alias" : "" 
                         }
                     }
@@ -344,7 +344,7 @@
         },
         "Recent" : {
             "MRUMagic" : [ 
-                "Edit C:/Users/kurt-/Box/Spring 24/Hallal/Models/Case 2a/FLAC2D/Geometry2D.dat" ,
+                "Edit C:/Users/kurt-/Documents/GitHub/GNN_Soil_Dynamics/FLAC/FLAC2D - Case 2a/Geometry2D.dat" ,
                 "Model" 
             ]
         },

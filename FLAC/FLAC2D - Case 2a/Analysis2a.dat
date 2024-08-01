@@ -12,13 +12,13 @@ fish define param
 	; 
 	tt = 15.00			    ; Total Dynamic Time
 	;
-	freq1 = 0.75			; Central Frequency of Wavelet 1
+	freq1 = 1.75			; Central Frequency of Wavelet 1
 	; 
     ;
 	dyndt = 1.00e-4     	; Dynamic Time Step
     ; 	
 	t01 = 1.8               ; Initial Time shift, (calculates to 1.4 in this case)
-	histdt = 1              ; Sampling Interval of History 
+	histdt = 10             ; Sampling Interval of History 
 	azang = 0               ; Azimuth Angle wrt X-Axis (0:sxz)
 	; 
     ; 	
@@ -48,6 +48,11 @@ fish define wave
     wave = (1-2.0*(math.pi*freq1*(dynamic.time.total-t01))^2)*math.exp(-((math.pi*freq1*(dynamic.time.total-t01))^2))
 end
 zone face apply stress-shear @sigmax fish @wave range group 'Bottom'
+
+; Free Field
+;zone dynamic free-field
+;zone gridpoint fix velocity-y range group 'North' or 'South' or 'East' or 'West'
+
 
 ; Recording
 ;
@@ -83,7 +88,6 @@ zone history acceleration-x position 2.5 140
 zone history acceleration-x position 2.5 145
 zone history acceleration-x position 2.5 150
 
-
 ;
 history interval @histdt
 model dynamic timestep fix @dyndt
@@ -98,7 +102,7 @@ fish define endClock
 end
 
 fish callback add startClock event zone_update_complete
-fish callback add endClock   event solve_complete
+fish callback add endClock event solve_complete
 ;
 ;
 
@@ -116,7 +120,7 @@ fish define dhwrite
     fname_sfx = 'surface_xacc.dat'
     ;
     command
-        history export [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] vs "time" file @fname_dhx t
+       history export [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] vs "time" file @fname_dhx t
     endcommand
 end
 
