@@ -57,35 +57,10 @@ zone face apply stress-shear @sigmax fish @wave range group 'Bottom'
 ; Recording
 ;
 zone history acceleration-x position 2.5 0
-zone history acceleration-x position 2.5 5
-zone history acceleration-x position 2.5 10
-zone history acceleration-x position 2.5 15
-zone history acceleration-x position 2.5 20
-zone history acceleration-x position 2.5 25
 zone history acceleration-x position 2.5 30
-zone history acceleration-x position 2.5 35
-zone history acceleration-x position 2.5 40
-zone history acceleration-x position 2.5 45
-zone history acceleration-x position 2.5 50
-zone history acceleration-x position 2.5 55
 zone history acceleration-x position 2.5 60
-zone history acceleration-x position 2.5 65
-zone history acceleration-x position 2.5 70
-zone history acceleration-x position 2.5 75
-zone history acceleration-x position 2.5 80
-zone history acceleration-x position 2.5 85
 zone history acceleration-x position 2.5 90
-zone history acceleration-x position 2.5 95
-zone history acceleration-x position 2.5 100
-zone history acceleration-x position 2.5 105
-zone history acceleration-x position 2.5 110
-zone history acceleration-x position 2.5 115
 zone history acceleration-x position 2.5 120
-zone history acceleration-x position 2.5 125
-zone history acceleration-x position 2.5 130
-zone history acceleration-x position 2.5 135
-zone history acceleration-x position 2.5 140
-zone history acceleration-x position 2.5 145
 zone history acceleration-x position 2.5 150
 
 ;
@@ -120,7 +95,7 @@ fish define dhwrite
     fname_sfx = 'surface_xacc.dat'
     ;
     command
-       history export [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] vs "time" file @fname_dhx t
+       history export [1] [2] [3] [4] [5] [6] vs "time" file @fname_dhx t
     endcommand
 end
 
