@@ -18,7 +18,7 @@ fish define param
 	dyndt = 1.00e-4     	; Dynamic Time Step
     ; 	
 	t01 = 1.8               ; Initial Time shift, (calculates to 1.4 in this case)
-	histdt = 10             ; Sampling Interval of History 
+	histdt = 100            ; Sampling Interval of History 
 	azang = 0               ; Azimuth Angle wrt X-Axis (0:sxz)
 	; 
     ; 	
@@ -96,6 +96,7 @@ fish define dhwrite
     ;
     command
        history export [1] [2] [3] [4] [5] [6] vs "time" file @fname_dhx t
+       ;history export [1] [2] [3] [4] [5] [6] file @fname_dhx t
     endcommand
 end
 
