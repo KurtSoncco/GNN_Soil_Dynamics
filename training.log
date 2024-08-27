@@ -1,0 +1,241 @@
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 16.85871048 Val Loss: 14.09747762
+INFO:root:Epoch:  10 Train Loss: 13.79886048 Val Loss: 14.54404200
+INFO:root:Epoch:  20 Train Loss: 14.30181657 Val Loss:        nan
+INFO:root:Epoch:  30 Train Loss: 14.37852846 Val Loss:        nan
+INFO:root:Epoch:  40 Train Loss: 14.37845309 Val Loss:        nan
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 13.19232848 Val Loss: 38.80921819
+INFO:root:Epoch:  10 Train Loss: 7.10032536 Val Loss: 7.80785318
+INFO:root:Epoch:  20 Train Loss: 6.20940075 Val Loss: 5.17586501
+INFO:root:Early stopping
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 13.82865815 Val Loss: 15.40695830
+INFO:root:Early stopping
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 37.72668007 Val Loss: 15.98248487
+INFO:root:Epoch:  10 Train Loss: 14.10705873 Val Loss: 15.11483971
+INFO:root:Early stopping
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 12.88990769
+INFO:root:Epoch:  10 Train Loss: 11.77299621
+INFO:root:Epoch:  20 Train Loss: 11.64552065
+INFO:root:Epoch:  30 Train Loss: 11.59320668
+INFO:root:Epoch:  40 Train Loss: 11.56097023
+INFO:root:Epoch:  50 Train Loss: 11.55121253
+INFO:root:Epoch:  60 Train Loss: 11.54605680
+INFO:root:Epoch:  70 Train Loss: 11.53867319
+INFO:root:Epoch:  80 Train Loss: 11.53975590
+INFO:root:Epoch:  90 Train Loss: 11.53449577
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 29.89673513
+INFO:root:Epoch:  10 Train Loss: 11.75862697
+INFO:root:Epoch:  20 Train Loss: 11.68172038
+INFO:root:Epoch:  30 Train Loss: 11.60179971
+INFO:root:Epoch:  40 Train Loss: 11.56824647
+INFO:root:Epoch:  50 Train Loss: 11.57276419
+INFO:root:Epoch:  60 Train Loss: 11.54593411
+INFO:root:Epoch:  70 Train Loss: 11.53955819
+INFO:root:Epoch:  80 Train Loss: 11.53637040
+INFO:root:Epoch:  90 Train Loss: 11.53581222
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 11.62804409
+INFO:root:Epoch:  10 Train Loss: 11.65057278
+INFO:root:Epoch:  20 Train Loss: 11.59420426
+INFO:root:Epoch:  30 Train Loss: 11.56381269
+INFO:root:Epoch:  40 Train Loss: 11.55469888
+INFO:root:Epoch:  50 Train Loss: 11.54497735
+INFO:root:Epoch:  60 Train Loss: 11.54464409
+INFO:root:Epoch:  70 Train Loss: 11.53729075
+INFO:root:Epoch:  80 Train Loss: 11.53559981
+INFO:root:Epoch:  90 Train Loss: 11.53363061
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 498.06164814
+INFO:root:Epoch:  10 Train Loss: 12.54816688
+INFO:root:Epoch:  20 Train Loss: 12.29916333
+INFO:root:Epoch:  30 Train Loss: 11.96870281
+INFO:root:Epoch:  40 Train Loss: 11.87047627
+INFO:root:Epoch:  50 Train Loss: 11.60585613
+INFO:root:Epoch:  60 Train Loss: 11.55251233
+INFO:root:Epoch:  70 Train Loss: 11.50521027
+INFO:root:Epoch:  80 Train Loss: 11.45103399
+INFO:root:Epoch:  90 Train Loss: 11.45517599
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Starting training...
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 271.54353089
+INFO:root:Epoch:  10 Train Loss: 21.21790471
+INFO:root:Epoch:  20 Train Loss: 18.61096888
+INFO:root:Epoch:  30 Train Loss: 16.32764892
+INFO:root:Epoch:  40 Train Loss: 14.44574730
+INFO:root:Epoch:  50 Train Loss: 12.04277444
+INFO:root:Epoch:  60 Train Loss: 12.31972641
+INFO:root:Epoch:  70 Train Loss: 11.71217770
+INFO:root:Epoch:  80 Train Loss: 11.85771198
+INFO:root:Epoch:  90 Train Loss: 11.75664331
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 2597.13826752
+INFO:root:Epoch:  10 Train Loss: 25.82105626
+INFO:root:Epoch:  20 Train Loss: 23.70011701
+INFO:root:Epoch:  30 Train Loss: 18.32385707
+INFO:root:Epoch:  40 Train Loss: 17.55396782
+INFO:root:Epoch:  50 Train Loss: 15.05555375
+INFO:root:Epoch:  60 Train Loss: 12.77110079
+INFO:root:Epoch:  70 Train Loss: 12.03497122
+INFO:root:Epoch:  80 Train Loss: 12.07756231
+INFO:root:Epoch:  90 Train Loss: 11.74471523
+INFO:root:Epoch: 100 Train Loss: 11.62877907
+INFO:root:Epoch: 110 Train Loss: 11.49776213
+INFO:root:Epoch: 120 Train Loss: 11.60304180
+INFO:root:Epoch: 130 Train Loss: 11.57674631
+INFO:root:Epoch: 140 Train Loss: 11.54032897
+INFO:root:Epoch: 150 Train Loss: 11.52825104
+INFO:root:Epoch: 160 Train Loss: 11.51132771
+INFO:root:Epoch: 170 Train Loss: 11.51013492
+INFO:root:Epoch: 180 Train Loss: 11.50325374
+INFO:root:Epoch: 190 Train Loss: 11.50461388
+INFO:root:Epoch: 200 Train Loss: 11.50052493
+INFO:root:Epoch: 210 Train Loss: 11.50097979
+INFO:root:Epoch: 220 Train Loss: 11.49985329
+INFO:root:Epoch: 230 Train Loss: 11.49933272
+INFO:root:Epoch: 240 Train Loss: 11.49946647
+INFO:root:Epoch: 250 Train Loss: 11.50032710
+INFO:root:Epoch: 260 Train Loss: 11.50028396
+INFO:root:Epoch: 270 Train Loss: 11.50021724
+INFO:root:Epoch: 280 Train Loss: 11.50028849
+INFO:root:Epoch: 290 Train Loss: 11.50026736
+INFO:root:Epoch: 300 Train Loss: 11.50011333
+INFO:root:Epoch: 310 Train Loss: 11.50016511
+INFO:root:Epoch: 320 Train Loss: 11.50026018
+INFO:root:Epoch: 330 Train Loss: 11.50025991
+INFO:root:Epoch: 340 Train Loss: 11.50026063
+INFO:root:Epoch: 350 Train Loss: 11.50026048
+INFO:root:Epoch: 360 Train Loss: 11.50029159
+INFO:root:Epoch: 370 Train Loss: 11.49859944
+INFO:root:Epoch: 380 Train Loss: 11.49859944
+INFO:root:Epoch: 390 Train Loss: 11.49859944
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 45797.79333849
+INFO:root:Epoch:  10 Train Loss: 85.63551849
+INFO:root:Epoch:  20 Train Loss: 51.85592385
+INFO:root:Epoch:  30 Train Loss: 33.28767437
+INFO:root:Epoch:  40 Train Loss: 24.17639968
+INFO:root:Epoch:  50 Train Loss: 17.75568733
+INFO:root:Epoch:  60 Train Loss: 13.78512162
+INFO:root:Epoch:  70 Train Loss: 12.00555663
+INFO:root:Epoch:  80 Train Loss: 11.73847111
+INFO:root:Epoch:  90 Train Loss: 11.69297813
+INFO:root:Epoch: 100 Train Loss: 11.66928304
+INFO:root:Epoch: 110 Train Loss: 11.65603265
+INFO:root:Epoch: 120 Train Loss: 11.64852248
+INFO:root:Epoch: 130 Train Loss: 11.64441257
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 39232.55593938
+INFO:root:Epoch:  10 Train Loss: 155.85578591
+INFO:root:Epoch:  20 Train Loss: 139.97371188
+INFO:root:Epoch:  30 Train Loss: 119.69888848
+INFO:root:Epoch:  40 Train Loss: 112.83204055
+INFO:root:Epoch:  50 Train Loss: 185.05480474
+INFO:root:Epoch:  60 Train Loss: 211.70346129
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 2000.91404682
+INFO:root:Epoch:  10 Train Loss: 44.73437874
+INFO:root:Epoch:  20 Train Loss: 30.84357401
+INFO:root:Epoch:  30 Train Loss: 26.93153488
+INFO:root:Epoch:  40 Train Loss: 28.85811520
+INFO:root:Epoch:  50 Train Loss: 45.11949047
+INFO:root:Epoch:  60 Train Loss: 33.85181674
+INFO:root:Epoch:  70 Train Loss: 65.07647441
+INFO:root:Epoch:  80 Train Loss: 41.21823992
+INFO:root:Epoch:  90 Train Loss: 26.23938490
+INFO:root:Epoch: 100 Train Loss: 42.55704571
+INFO:root:Epoch: 110 Train Loss: 36.64943777
+INFO:root:Epoch: 120 Train Loss: 67.01860303
+INFO:root:Epoch: 130 Train Loss: 54.93365474
+INFO:root:Epoch: 140 Train Loss: 80.68920499
+INFO:root:Epoch: 150 Train Loss: 37.33384401
+INFO:root:Epoch: 160 Train Loss: 50.36731767
+INFO:root:Epoch: 170 Train Loss: 61.53880681
+INFO:root:Epoch: 180 Train Loss: 43.46490946
+INFO:root:Epoch: 190 Train Loss: 44.04933065
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 910.33534683
+INFO:root:Epoch:  10 Train Loss: 20.44808702
+INFO:root:Epoch:  20 Train Loss: 21.49109642
+INFO:root:Epoch:  30 Train Loss: 7.17685719
+INFO:root:Epoch:  40 Train Loss: 13.26034321
+INFO:root:Epoch:  50 Train Loss: 9.21006605
+INFO:root:Epoch:  60 Train Loss: 9.22935668
+INFO:root:Epoch:  70 Train Loss: 8.89211228
+INFO:root:Epoch:  80 Train Loss: 10.18459896
+INFO:root:Epoch:  90 Train Loss: 8.55181716
+INFO:root:Epoch: 100 Train Loss: 17.35080433
+INFO:root:Epoch: 110 Train Loss: 11.32206723
+INFO:root:Epoch: 120 Train Loss: 11.85661314
+INFO:root:Epoch: 130 Train Loss: 9.44708306
+INFO:root:Epoch: 140 Train Loss: 49.07961007
+INFO:root:Epoch: 150 Train Loss: 11.89356968
+INFO:root:Epoch: 160 Train Loss: 9.24612503
+INFO:root:Epoch: 170 Train Loss: 9.67388262
+INFO:root:Epoch: 180 Train Loss: 13.88760185
+INFO:root:Epoch: 190 Train Loss: 15.57581066
+INFO:root:Training complete.
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss: 12.26685869
+INFO:root:Epoch:  10 Train Loss:        nan
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss:        nan
+INFO:root:Epoch:  10 Train Loss:        nan
+INFO:root:Epoch:  20 Train Loss:        nan
+INFO:root:Epoch:  30 Train Loss:        nan
+INFO:root:Epoch:  40 Train Loss:        nan
+INFO:root:Epoch:  50 Train Loss:        nan
+INFO:root:Epoch:  60 Train Loss:        nan
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss:        nan
+INFO:root:Epoch:  10 Train Loss:        nan
+INFO:root:Epoch:  20 Train Loss:        nan
+INFO:root:Epoch:  30 Train Loss:        nan
+INFO:root:Epoch:  40 Train Loss:        nan
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss:        nan
+INFO:root:Epoch:  10 Train Loss:        nan
+INFO:root:Epoch:  20 Train Loss:        nan
+INFO:root:Epoch:  30 Train Loss:        nan
+INFO:root:Epoch:  40 Train Loss:        nan
+INFO:root:Epoch:  50 Train Loss:        nan
+INFO:root:Epoch:  60 Train Loss:        nan
+INFO:root:Epoch:  70 Train Loss:        nan
+INFO:root:Epoch:  80 Train Loss:        nan
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss:        inf
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss:        nan
+INFO:root:Epoch:   1 Train Loss:        nan
+INFO:root:Starting training...
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss:        inf
+INFO:root:Epoch:   1 Train Loss:        inf
+INFO:root:Epoch:   2 Train Loss:        inf
+INFO:root:Epoch:   3 Train Loss:        inf
+INFO:root:Starting training...
+INFO:root:Epoch:   0 Train Loss:        inf
+INFO:root:Epoch:   1 Train Loss:        inf
+INFO:root:Epoch:   2 Train Loss:        inf
+INFO:root:Epoch:   3 Train Loss:        inf
+INFO:root:Epoch:   4 Train Loss:        inf
+INFO:root:Epoch:   5 Train Loss:        inf
+INFO:root:Epoch:   6 Train Loss:        inf
+INFO:root:Epoch:   7 Train Loss:        inf
+INFO:root:Epoch:   8 Train Loss:        inf

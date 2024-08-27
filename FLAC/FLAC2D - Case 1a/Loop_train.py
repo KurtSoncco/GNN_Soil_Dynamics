@@ -96,7 +96,7 @@ def run_simulation(mat_prop, freq1, t01):
 
 
 # Save results
-def save_results(Vs, f, t01, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D - Case 1a\data"):
+def save_results(Vs, f, t01, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D - Case 1a\data2"):
     # Load data
     name_file = os.path.join(path, 'Data_{:.3f}_{:.3f}_{:.3f}.csv'.format(Vs, f, t01))
     data = pd.read_csv("Data.dat", sep='\\s+', header=None, skiprows=2)
@@ -106,30 +106,24 @@ def save_results(Vs, f, t01, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dyn
 
 if __name__ == '__main__':
     # Define material properties
-    Vs_values = np.array([140,250,1000,1500,2000,100,500,800,950,2500], dtype=float)
-    f_values = np.array([1, 1.5, 1.75, 2.25, 3], dtype=float)
-    t_values = np.linspace(0.5, 2.5, 10)
+    Vs_values = np.linspace(100,2500,500)
+    f = 1.5
+    t = 2.5
 
-    # Create a list of all possible combinations of Vs, f, and t
-    Vs_val, f_val, t_val = np.meshgrid(Vs_values, f_values, t_values, indexing='ij')
-    Vs_val = Vs_val.flatten()
-    f_val = f_val.flatten()
-    t_val = t_val.flatten()
-
-    for i in range(len(Vs_val)):
+    for i in range(len(Vs_values)):
         mat_prop = np.zeros((30,3))
-        mat_prop[:,0] = Vs_val[i]
+        mat_prop[:,0] = Vs_values[i]
         mat_prop[:,1] = 0.3
         mat_prop[:,2] = 2000
-        freq1 = f_val[i]
-        t01 = t_val[i]
+        freq1 = f
+        t01 = t
 
         start_time = time.time()
         run_simulation(mat_prop, freq1, t01)
         end_time = time.time()
         elapsed_time = end_time - start_time
         print("Simulation {} completed in {} seconds".format(i, elapsed_time))
-        save_results(Vs_val[i], f_val[i], t_val[i])
+        save_results(Vs_values[i], f, t)
     
     
     print("All simulations completed!")
