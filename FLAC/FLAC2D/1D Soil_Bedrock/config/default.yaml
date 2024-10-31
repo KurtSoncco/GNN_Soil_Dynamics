@@ -1,0 +1,44 @@
+data:
+  freq_path: "../TF_HLC/TTF_freq_200.csv"
+  data_path: "../TF_HLC/Vs_values_200.pt" 
+  target_path: "../TF_HLC/TTF_data_200.pt"
+
+dataloader:
+  train_size: 0.7
+  batch_size: 50
+
+model:
+  hidden_size: 10
+  num_layers: 5
+  bidirectional_encoder: False
+  save_path: "../model/Seq2Seq_each_Freq.pt"
+
+optimizer:
+  lr: 0.001
+  weight_decay: 0.0001
+  amsgrad: True
+  eps: 0.00000001
+  betas: [0.7, 0.999]
+
+scheduler:
+  mode: 'min'
+  factor: 0.5
+  patience: 900
+  threshold_mode: 'rel'
+  cooldown: 0
+  min_lr: 0.00001
+  eps: 0.00000001
+
+training:
+  epochs: 2000
+  patience: 1500
+  clipping: True
+  print_epoch: 1000
+
+testing:
+  save_losses: "../results_model/Seq2Seq_each_Freq_losses.yaml"
+  save_path: "../results_model"
+
+wandb:
+  project: 'Seq2Seq each Freq'
+  name: 'default'

@@ -3,9 +3,9 @@
         "Type" : "ITASCA PROJECT FILE" ,
         "Name" : "flac2d" ,
         "Version" : 9.1000004e+00 ,
-        "Update" : 12 ,
+        "Update" : 13 ,
         "Binary" : false ,
-        "DateTime" : "2024-08-14T14:08:21" ,
+        "DateTime" : "2024-10-07T11:58:29" ,
         "Format" : 0 ,
         "Dimension" : 2 
     },
@@ -302,7 +302,7 @@
     ],
     "Terminal" : {
         "MoveLists" : true ,
-        "LineLimit" : 12 
+        "LineLimit" : 7 
     },
     "ColorMap" : {
         "EMaps" : [ 
@@ -322,7 +322,7 @@
             "Info" : [ 
                 
                 {
-                    "Name" : "Viewer-ROOT#3" ,
+                    "Name" : "Viewer-ROOT#2" ,
                     "Geom" : [ 1365  ],
                     "Child1" : "Editor_Analysis1a" ,
                     "Child2" : "" ,
@@ -347,7 +347,7 @@
         "ViewerVis" : true ,
         "RightTabs" : [  ],
         "RightCI" : -1 ,
-        "LeftCI" : 0 
+        "LeftCI" : 1 
     },
     "PaneContents" : { }
 }

@@ -1,0 +1,34 @@
+model new
+model configure dynamic
+zone create quad size 1 11 point 0 (0,0) point 1 (5.00,0) point 2 (0,55.00)
+zone cmodel assign elastic
+;------------------------------------------------
+;--------Define the material properties-----------
+;------------------------------------------------
+table '10' import 'Coord3D-XY.dat'
+table '20' import 'MatProp3D.dat'
+table '21' import 'Density3D.dat'
+fish define soilprop
+	mtot = table.size(10)
+	loop m (1,mtot)
+		xi = table.x(10,m)
+		yi = table.y(10,m)
+		csi = table.x(20,m)
+		nui = table.y(20,m)
+		rho = table.y(21,m)
+		shmodi = rho*csi^2
+		bkmodi = 2*shmodi*(1+nui)/3/(1-2*nui)
+		dout = string(m)+ ',  ' + string(csi) + ',  ' + string(nui) + ', ' + string(shmodi)
+		dum = io.out(dout)
+		; 
+		zcent = vector(xi,yi)
+		zp = zone.near(zcent)
+		zone.density(zp) = rho
+		zone.prop(zp,'shear') = shmodi
+		zone.prop(zp,'bulk') = bkmodi
+		; 
+	endloop
+end
+@soilprop
+; ------------------------------------------------
+model save 'Model_1a_Geom.sav'

@@ -96,7 +96,7 @@ def run_simulation(mat_prop, freq1, t01):
 
 
 # Save results
-def save_results(Vs, f, t01, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D - Case 1a\data2"):
+def save_results(Vs, f, t01, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D - Case 1a\data3"):
     # Load data
     name_file = os.path.join(path, 'Data_{:.3f}_{:.3f}_{:.3f}.csv'.format(Vs, f, t01))
     data = pd.read_csv("Data.dat", sep='\\s+', header=None, skiprows=2)
@@ -106,7 +106,7 @@ def save_results(Vs, f, t01, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dyn
 
 if __name__ == '__main__':
     # Define material properties
-    Vs_values = np.linspace(100,2500,500)
+    Vs_values = np.linspace(90,800,750)
     f = 1.5
     t = 2.5
 

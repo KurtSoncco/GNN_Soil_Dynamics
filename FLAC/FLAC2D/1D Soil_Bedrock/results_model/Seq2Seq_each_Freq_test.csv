@@ -1,0 +1,4 @@
+train_losses:
+- .nan
+val_losses:
+- .nan

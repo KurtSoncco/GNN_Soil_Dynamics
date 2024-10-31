@@ -1,0 +1,77 @@
+;
+; Case 1a - 2D Model
+;
+model new
+model restore 'Model_1a_Geom.sav'
+model large-strain off
+model configure dynamic
+
+; 
+fish define param
+	; 
+	; ------------------------- Excitation Parameters -------------------------
+	; 
+	tt = 15.00			    ; Total Dynamic Time
+	;
+	freq1 = 1.5			; Central Frequency of Wavelet 1
+	; 
+    ;
+	dyndt = 1.00e-4     	; Dynamic Time Step
+    ; 	
+	t01 = 2.5       ; Initial Time shift, (calculates to 1.4 in this case)
+	histdt = 100              ; Sampling Interval of History 
+	azang = 0               ; Azimuth Angle wrt X-Axis (0:sxz)
+	; 
+    ; 	
+	swvelocity = 261.47      ; Shear Wave Velocity
+	mdensity = 2000.0       ; Mass Density
+	pratio = 0.30           ; Poisson's Ratio
+	; 
+	sigmas = -2*mdensity*swvelocity
+    ;
+    Facx = math.cos(azang*math.pi/180)
+    Facy = math.sin(azang*math.pi/180)
+    sigmax = sigmas*Facx
+    sigmay = sigmas*Facy
+end
+@param
+
+zone face skin 
+; Vicous damping
+zone dynamic damping rayleigh 0.006495192 1.299037873
+
+; Boundary Conditions
+zone face apply quiet-tangential range group 'Bottom'
+zone face apply velocity-y 0
+
+; Wave
+fish define wave
+	wave = (1-2.0*(math.pi*1.5*(dynamic.time.total-2.5))^2)*math.exp(-((math.pi*1.5*(dynamic.time.total-2.5))^2))
+end
+zone face apply stress-shear @sigmax fish @wave range group 'Bottom'
+
+
+; Recording
+;
+zone history acceleration-x position 2.5 0
+zone history acceleration-x position 2.5 5
+zone history acceleration-x position 2.5 55
+;
+history interval @histdt
+model dynamic timestep fix @dyndt
+model history name='time' dynamic time-total
+model solve time-total @tt
+
+; Write Histories
+directory input
+fish define dhwrite
+    fname_dhx = 'Data.dat'
+    ;
+    command
+       history export [1] [2] [3] vs "time" file @fname_dhx t
+    endcommand
+end
+
+@dhwrite
+
+
