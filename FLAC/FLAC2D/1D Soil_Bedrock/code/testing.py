@@ -11,6 +11,22 @@ def extract_Vs(Vs):
     vs_bedrock = Vs[-1]
     return vs_soil, vs_bedrock, h_soil
 
+def calculate_pearson_rho(y, y_pred):
+    """Calculates Pearson correlation coefficient between y and y_pred.
+
+    Args:
+      y: A NumPy array of shape (50, 200, 1) representing the true values.
+      y_pred: A NumPy array of shape (50, 200, 1) representing the predicted values.
+
+    Returns:
+      A NumPy array of shape (50,) containing the Pearson correlation coefficient for each of the 50 samples.
+    """
+    rhos = []
+    for i in range(y.shape[0]):
+        rho, _ = pearsonr(y[i, :, 0], y_pred[i, :, 0])
+        rhos.append(rho)
+    return np.array(rhos)
+
 def save_and_evaluate_results(model, test_loader, device, Vs_data, save_path):
     model.eval()
     target = []
@@ -29,7 +45,7 @@ def save_and_evaluate_results(model, test_loader, device, Vs_data, save_path):
             Vs_soil_i, Vs_bedrock_i, h_soil_i = zip(*[extract_Vs(Vs) for Vs in X[:,0].cpu().numpy()])
             
             # Calculate and print correlation factors
-            correlation_i = pearsonr(y.cpu().numpy(), y_pred.cpu().numpy(), axis=1)[0]
+            correlation_i = calculate_pearson_rho(y.cpu().numpy(), y_pred.cpu().numpy())
             
             # Append to lists
             Vs_soil.append(Vs_soil_i)
