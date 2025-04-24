@@ -1,0 +1,54 @@
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Epoch 1/1000, Train Loss: 72.696522, Val Loss: 23.995370, LR: 1.00e-03
+Model saved with validation loss: 23.995370
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+[{"variableName": "TTF_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "X_try", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "dummy_input", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "f0_vals", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "freq_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "history", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "idx", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "inputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "loss", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "output", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "outputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "targets", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "x", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "y", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}]
+[{"variableName": "TTF_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "X_try", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "dummy_input", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "f0_vals", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "freq_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "history", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "idx", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "inputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "loss", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "output", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "outputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "targets", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "x", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "y", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}]
+[{"variableName": "TTF_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "X_try", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "dummy_input", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "f0_vals", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "freq_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "history", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "idx", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "inputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "loss", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "output", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "outputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "targets", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "x", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "y", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}]
+(1000, 200) (1000, 29) (200,)
+(836, 200) (836, 29) (200,)
+Sizes in the dataset:  836
+Data shapes for input and target:  torch.Size([29]) torch.Size([200])
+Train, validation and test sizes:  418 209 209
+Number of batches:  9 5 5
+torch.Size([50, 29]) torch.Size([50, 200])
+torch.Size([50, 200, 64])
+Input shape: torch.Size([50, 29])
+Output shape: torch.Size([50, 200])
+Using device: cuda
+c:\Users\kurt-\miniconda3\envs\ML\Lib\site-packages\torch\optim\lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(

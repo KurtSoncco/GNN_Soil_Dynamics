@@ -1,0 +1,17 @@
+{"time":"2025-04-08T16:58:41.7176547-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-08T16:58:41.7176547-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250408_165841-ql7qtzap\\logs\\debug-core.log"}
+{"time":"2025-04-08T16:58:41.8480734-07:00","level":"INFO","msg":"created new stream","id":"ql7qtzap"}
+{"time":"2025-04-08T16:58:41.8480734-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ql7qtzap"}}
+{"time":"2025-04-08T16:58:41.8486121-07:00","level":"INFO","msg":"stream: started","id":"ql7qtzap"}
+{"time":"2025-04-08T16:58:41.8486121-07:00","level":"INFO","msg":"sender: started","stream_id":"ql7qtzap"}
+{"time":"2025-04-08T16:58:41.8486121-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ql7qtzap"}}
+{"time":"2025-04-08T16:58:41.9065079-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-08T16:58:43.9842502-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-08T16:58:48.4300073-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-08T16:58:59.5047607-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-08T17:23:40.760101-07:00","level":"WARN","msg":"sender: taking a long time","seconds":1498.854677,"work":"WorkRecord(*service_go_proto.Record_Run); Control(mailbox_slot:\"rntl8ch6vxyy\"  always_send:true  connection_id:\"127.0.0.1:60976\")"}
+{"time":"2025-04-08T17:23:40.9528124-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-08T20:09:23.9273594-07:00","level":"WARN","msg":"sender: taking a long time","seconds":11442.0229374,"work":"WorkRecord(*service_go_proto.Record_Run); Control(mailbox_slot:\"rntl8ch6vxyy\"  always_send:true  connection_id:\"127.0.0.1:60976\")"}
+{"time":"2025-04-08T20:09:24.0350534-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-08T20:12:17.0182184-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-08T20:13:17.5129708-07:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":11675.6085502,"work":"WorkRecord(*service_go_proto.Record_Run); Control(mailbox_slot:\"rntl8ch6vxyy\"  always_send:true  connection_id:\"127.0.0.1:60976\")"}

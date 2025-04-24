@@ -1,0 +1,64 @@
+{"time":"2025-04-21T00:39:21.632978-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-21T00:39:21.633744-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250421_003918-awz7fzxe\\logs\\debug-core.log"}
+{"time":"2025-04-21T00:39:22.5821261-07:00","level":"INFO","msg":"created new stream","id":"awz7fzxe"}
+{"time":"2025-04-21T00:39:22.5821261-07:00","level":"INFO","msg":"stream: started","id":"awz7fzxe"}
+{"time":"2025-04-21T00:39:22.5821261-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"awz7fzxe"}}
+{"time":"2025-04-21T00:39:22.5827314-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"awz7fzxe"}}
+{"time":"2025-04-21T00:39:22.5827314-07:00","level":"INFO","msg":"sender: started","stream_id":"awz7fzxe"}
+{"time":"2025-04-21T00:39:23.1666923-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T00:39:33.1669629-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-21T00:45:28.3765351-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:45:37.8902866-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:45:37.9267673-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:03.1739476-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:03.628575-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:16.0312924-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:16.0379067-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:17.9195819-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:17.930007-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:18.3634461-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:18.3777772-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.2521839-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.2551665-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.2632288-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.2647406-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.2749617-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.2768768-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.2874323-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.3141972-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.3298396-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.3329599-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.3455503-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.3919592-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.4027998-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.588306-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.5943313-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.5957244-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.60528-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.6070475-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.6147434-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.6202263-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.6285807-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.6368581-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.6460901-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.7026649-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.7114225-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.7154591-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.7293113-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.7526572-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.7719043-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.8115311-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.8257324-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:22.8937484-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:22.9057001-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:23.2858074-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T00:46:23.3003234-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T00:46:23.4599469-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T00:46:23.4599469-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T00:46:24.2100333-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T00:46:24.4658765-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console logs","runtime_seconds":0.2558432}],"total_operations":1}}
+{"time":"2025-04-21T00:46:25.4928471-07:00","level":"INFO","msg":"stream: closing","id":"awz7fzxe"}
+{"time":"2025-04-21T00:46:25.4934662-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"awz7fzxe"}}
+{"time":"2025-04-21T00:46:25.4934662-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"awz7fzxe"}}
+{"time":"2025-04-21T00:46:25.4934662-07:00","level":"INFO","msg":"sender: closed","stream_id":"awz7fzxe"}
+{"time":"2025-04-21T00:46:25.4934662-07:00","level":"INFO","msg":"stream: closed","id":"awz7fzxe"}

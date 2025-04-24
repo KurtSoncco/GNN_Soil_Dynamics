@@ -1,0 +1,18 @@
+{"time":"2025-04-17T21:16:10.2485577-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-17T21:16:10.2485577-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250417_211608-ri2h142s\\logs\\debug-core.log"}
+{"time":"2025-04-17T21:16:10.3641656-07:00","level":"INFO","msg":"created new stream","id":"ri2h142s"}
+{"time":"2025-04-17T21:16:10.3641656-07:00","level":"INFO","msg":"stream: started","id":"ri2h142s"}
+{"time":"2025-04-17T21:16:10.3641656-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ri2h142s"}}
+{"time":"2025-04-17T21:16:10.3641656-07:00","level":"INFO","msg":"sender: started","stream_id":"ri2h142s"}
+{"time":"2025-04-17T21:16:10.3641656-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ri2h142s"}}
+{"time":"2025-04-17T21:16:10.6070498-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-17T21:16:20.607433-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-17T21:16:52.5807506-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-17T21:16:52.5812987-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-17T21:16:53.0629419-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-17T21:16:53.3305364-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-17T21:16:54.3675241-07:00","level":"INFO","msg":"stream: closing","id":"ri2h142s"}
+{"time":"2025-04-17T21:16:54.3675241-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ri2h142s"}}
+{"time":"2025-04-17T21:16:54.3675241-07:00","level":"INFO","msg":"sender: closed","stream_id":"ri2h142s"}
+{"time":"2025-04-17T21:16:54.3675241-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ri2h142s"}}
+{"time":"2025-04-17T21:16:54.3680442-07:00","level":"INFO","msg":"stream: closed","id":"ri2h142s"}

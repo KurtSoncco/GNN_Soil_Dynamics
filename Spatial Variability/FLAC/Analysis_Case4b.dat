@@ -1,0 +1,145 @@
+;
+; Case 3a - 1D Model
+;
+model new
+model restore 'Model_4b_Geom.sav'
+model large-strain off
+; 
+fish define param
+    ; 
+    ; ------------------------- Excitation Parameters -------------------------
+    ;
+    dyndt = 1.00e-4     ; Dynamic Time Step
+    ;    
+    ; 
+    tt = 15.0           ; Total Dynamic Time
+    ;
+    freq1 = 1.5        ; Central Frequency of Wavelet 1
+    ; 
+    ;   
+    t01 = 2.5   ; Initial Time shift, 
+    ;
+    
+    histdt = 1             ; Sampling Interval of History 
+    azang = 0               ; Azimuth Angle wrt X-Axis (0:sxz)
+    ; 
+    ;   
+    swvelocity = 1279.259259    ; Shear Wave Velocity
+    mdensity = 2000.0         ; Mass Density
+    pratio = 0.30           ; Poisson's Ratio
+    ; 
+    sigmas = -2.0 *mdensity*swvelocity
+    ;
+    Facx = math.cos(azang*math.pi/180)
+    Facy = math.sin(azang*math.pi/180)
+    sigmax = sigmas*Facx
+    sigmay = sigmas*Facy
+end
+@param
+;
+; 
+; ---------------------------- Boundary Conditions ----------------------------
+; 
+fish define wave
+    wave = (1.0-2.0*(math.pi*freq1*(dynamic.time.total-t01))^2)*math.exp(-((math.pi*freq1*(dynamic.time.total-t01))^2))
+end
+; Name model boundaries
+zone face skin
+;--- Boundary Conditions ---
+zone face apply velocity-y 0 
+;
+; Vicous damping
+zone face apply quiet-tangential range group 'Bottom'
+zone dynamic damping rayleigh 0.006495192 1.299037873
+zone dynamic free-field on
+;
+zone face apply stress-shear @sigmax fish wave range group 'Bottom'
+
+; 
+; ---------------------------- Recording Histories ---------------------------
+; 
+history interval @histdt
+model dynamic timestep fix @dyndt
+
+; Measure rate
+fish define startClock
+    global start = time.clock
+end
+
+fish define endClock
+    global time_run = time.clock - start
+end
+
+fish callback add startClock event zone_update_complete
+fish callback add endClock   event solve_complete
+;
+;
+; ---------------------------- Specify where to record ---------------------------
+; 
+zone history acceleration-x position 77.50 0
+zone history acceleration-x position 77.50 75.00
+
+zone history acceleration-x position 2.5 75
+zone history acceleration-x position 7.50 75.00
+zone history acceleration-x position 12.500000 75.00
+zone history acceleration-x position 17.500000 75.00
+zone history acceleration-x position 22.500000 75.00
+zone history acceleration-x position 27.500000 75.00
+zone history acceleration-x position 32.500000 75.00
+zone history acceleration-x position 37.500000 75.00
+zone history acceleration-x position 42.500000 75.00
+zone history acceleration-x position 47.500000 75.00
+zone history acceleration-x position 52.500000 75.00
+zone history acceleration-x position 57.500000 75.00
+zone history acceleration-x position 62.500000 75.00
+zone history acceleration-x position 67.500000 75.00
+zone history acceleration-x position 72.500000 75.00
+zone history acceleration-x position 77.500000 75.00
+zone history acceleration-x position 82.500000 75.00
+zone history acceleration-x position 87.500000 75.00
+zone history acceleration-x position 92.500000 75.00
+zone history acceleration-x position 97.500000 75.00
+zone history acceleration-x position 102.500000 75.00
+zone history acceleration-x position 107.500000 75.00
+zone history acceleration-x position 112.500000 75.00
+zone history acceleration-x position 117.500000 75.00
+zone history acceleration-x position 122.500000 75.00
+zone history acceleration-x position 127.500000 75.00
+zone history acceleration-x position 132.500000 75.00
+zone history acceleration-x position 137.500000 75.00
+zone history acceleration-x position 142.500000 75.00
+zone history acceleration-x position 147.500000 75.00
+zone history acceleration-x position 152.500000 75.00
+
+
+fish history wave
+;
+model dynamic active on
+table 'wave_table' add (@wave,@wave)
+
+model history name='time' dynamic time-total
+model solve time-total @tt 
+
+
+
+;
+;
+; ----------------------------- Writing Histories ----------------------------
+; 
+directory input
+fish define dhwrite
+    ;fname_time = 'timesteps.dat'
+    fname_dhx = 'central_xacc.dat'
+    fname_sfx = 'surface_xacc.dat'
+    fname_input = 'input.dat'
+    ;
+    command
+        ;history export [1] file @fname_time
+        history export [1] [2] vs "time" file @fname_dhx t
+        history export [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] vs "time" file @fname_sfx t
+    endcommand
+end
+
+@dhwrite
+
+[io.out(' Calculation time: '+ string(time_run) )]

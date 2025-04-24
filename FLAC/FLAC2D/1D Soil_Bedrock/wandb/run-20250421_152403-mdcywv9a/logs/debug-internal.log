@@ -1,0 +1,18 @@
+{"time":"2025-04-21T15:24:05.6740301-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-21T15:24:05.6740301-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250421_152403-mdcywv9a\\logs\\debug-core.log"}
+{"time":"2025-04-21T15:24:05.896501-07:00","level":"INFO","msg":"created new stream","id":"mdcywv9a"}
+{"time":"2025-04-21T15:24:05.896501-07:00","level":"INFO","msg":"stream: started","id":"mdcywv9a"}
+{"time":"2025-04-21T15:24:05.896501-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"mdcywv9a"}}
+{"time":"2025-04-21T15:24:05.896501-07:00","level":"INFO","msg":"sender: started","stream_id":"mdcywv9a"}
+{"time":"2025-04-21T15:24:05.8971608-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"mdcywv9a"}}
+{"time":"2025-04-21T15:24:06.1368372-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T15:24:16.137747-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-21T15:58:35.7679745-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T15:58:35.7694927-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T15:58:36.3189119-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T15:58:36.4470195-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-21T15:58:37.4809646-07:00","level":"INFO","msg":"stream: closing","id":"mdcywv9a"}
+{"time":"2025-04-21T15:58:37.4809646-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"mdcywv9a"}}
+{"time":"2025-04-21T15:58:37.4809646-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"mdcywv9a"}}
+{"time":"2025-04-21T15:58:37.4809646-07:00","level":"INFO","msg":"sender: closed","stream_id":"mdcywv9a"}
+{"time":"2025-04-21T15:58:37.4809646-07:00","level":"INFO","msg":"stream: closed","id":"mdcywv9a"}

@@ -1,0 +1,7 @@
+{"time":"2025-04-20T16:39:07.7147974-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-20T16:39:07.7147974-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250420_163907-u8pgc8jb\\logs\\debug-core.log"}
+{"time":"2025-04-20T16:39:08.2670467-07:00","level":"INFO","msg":"created new stream","id":"u8pgc8jb"}
+{"time":"2025-04-20T16:39:08.2675843-07:00","level":"INFO","msg":"stream: started","id":"u8pgc8jb"}
+{"time":"2025-04-20T16:39:08.2675843-07:00","level":"INFO","msg":"sender: started","stream_id":"u8pgc8jb"}
+{"time":"2025-04-20T16:39:08.2681074-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"u8pgc8jb"}}
+{"time":"2025-04-20T16:39:08.2681074-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"u8pgc8jb"}}

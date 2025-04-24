@@ -1,0 +1,32 @@
+{"time":"2025-04-17T13:46:50.4939551-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-17T13:46:50.4944928-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250417_134650-50uy9z5y\\logs\\debug-core.log"}
+{"time":"2025-04-17T13:46:51.4566944-07:00","level":"INFO","msg":"created new stream","id":"50uy9z5y"}
+{"time":"2025-04-17T13:46:51.4578961-07:00","level":"INFO","msg":"stream: started","id":"50uy9z5y"}
+{"time":"2025-04-17T13:46:51.4578961-07:00","level":"INFO","msg":"sender: started","stream_id":"50uy9z5y"}
+{"time":"2025-04-17T13:46:51.4578961-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"50uy9z5y"}}
+{"time":"2025-04-17T13:46:51.4578961-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"50uy9z5y"}}
+{"time":"2025-04-17T13:46:51.7596942-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-17T13:47:01.7618485-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-17T14:05:43.3643174-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/50uy9z5y/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:05:46.8623133-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/50uy9z5y/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:05:51.7772717-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/50uy9z5y/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:05:56.7391224-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:06:28.335986-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-17T14:06:28.3436522-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/50uy9z5y/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-17T14:06:32.855921-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:06:44.4380554-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:06:45.6516885-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/50uy9z5y/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:07:01.7869093-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-17T14:07:41.1944321-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/50uy9z5y/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-17T14:08:06.0310739-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-17T14:09:02.6843292-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/50uy9z5y/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-17T14:09:27.6040115-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-17T14:15:07.6946496-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-17T14:15:07.7109142-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-17T14:15:08.6152891-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.5498434}],"total_operations":1}}
+{"time":"2025-04-17T14:15:10.3849205-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-17T14:15:11.8399959-07:00","level":"INFO","msg":"stream: closing","id":"50uy9z5y"}
+{"time":"2025-04-17T14:15:11.8399959-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"50uy9z5y"}}
+{"time":"2025-04-17T14:15:11.8399959-07:00","level":"INFO","msg":"sender: closed","stream_id":"50uy9z5y"}
+{"time":"2025-04-17T14:15:11.8399959-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"50uy9z5y"}}
+{"time":"2025-04-17T14:15:11.8417646-07:00","level":"INFO","msg":"stream: closed","id":"50uy9z5y"}

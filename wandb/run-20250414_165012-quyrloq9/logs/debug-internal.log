@@ -1,0 +1,18 @@
+{"time":"2025-04-14T16:50:12.4617998-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-14T16:50:12.4623341-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\wandb\\run-20250414_165012-quyrloq9\\logs\\debug-core.log"}
+{"time":"2025-04-14T16:50:12.6982505-07:00","level":"INFO","msg":"created new stream","id":"quyrloq9"}
+{"time":"2025-04-14T16:50:12.698884-07:00","level":"INFO","msg":"stream: started","id":"quyrloq9"}
+{"time":"2025-04-14T16:50:12.698884-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"quyrloq9"}}
+{"time":"2025-04-14T16:50:12.698884-07:00","level":"INFO","msg":"sender: started","stream_id":"quyrloq9"}
+{"time":"2025-04-14T16:50:12.698884-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"quyrloq9"}}
+{"time":"2025-04-14T16:50:12.9400014-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-14T16:50:22.9402436-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-14T16:52:56.254399-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-14T16:52:56.2550104-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-14T16:52:56.756735-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-14T16:52:56.9075064-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-14T16:52:57.9967802-07:00","level":"INFO","msg":"stream: closing","id":"quyrloq9"}
+{"time":"2025-04-14T16:52:57.9982411-07:00","level":"INFO","msg":"sender: closed","stream_id":"quyrloq9"}
+{"time":"2025-04-14T16:52:57.9982411-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"quyrloq9"}}
+{"time":"2025-04-14T16:52:57.9982411-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"quyrloq9"}}
+{"time":"2025-04-14T16:52:57.9988422-07:00","level":"INFO","msg":"stream: closed","id":"quyrloq9"}

@@ -1,0 +1,35 @@
+model new
+model configure dynamic
+model large-strain off
+zone create quad size 1 35 point 0 (0,0) point 1 (1,0) point 2 (0,35)
+zone cmodel assign elastic
+;------------------------------------------------
+;--------Define the material properties-----------
+;------------------------------------------------
+table '10' import 'Coord2D-XY-1D - Copy.dat'
+table '20' import 'MatProp2D-1D - Copy.dat'
+table '21' import 'Density2D-1D - Copy.dat'
+fish define soilprop
+	mtot = table.size(10)
+	loop m (1,mtot)
+		xi = table.x(10,m)
+		yi = table.y(10,m)
+		csi = table.x(20,m)
+		nui = table.y(20,m)
+		rho = table.y(21,m)
+		shmodi = rho*csi^2
+		bkmodi = 2*shmodi*(1+nui)/3/(1-2*nui)
+		dout = string(m)+ ',  ' + string(csi) + ',  ' + string(nui)
+		dum = io.out(dout)
+		; 
+		zcent = vector(xi,yi)
+		zp = zone.near(zcent)
+		zone.density(zp) = rho
+		zone.prop(zp,'shear') = shmodi
+		zone.prop(zp,'bulk') = bkmodi
+		; 
+	endloop
+end
+@soilprop
+; ------------------------------------------------
+model save 'Model_shallow_copy.sav'

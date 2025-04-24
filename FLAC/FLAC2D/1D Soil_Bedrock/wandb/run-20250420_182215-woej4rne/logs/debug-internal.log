@@ -1,0 +1,18 @@
+{"time":"2025-04-20T18:22:15.600658-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-20T18:22:15.600658-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250420_182215-woej4rne\\logs\\debug-core.log"}
+{"time":"2025-04-20T18:22:16.3471512-07:00","level":"INFO","msg":"created new stream","id":"woej4rne"}
+{"time":"2025-04-20T18:22:16.3471512-07:00","level":"INFO","msg":"stream: started","id":"woej4rne"}
+{"time":"2025-04-20T18:22:16.3471512-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"woej4rne"}}
+{"time":"2025-04-20T18:22:16.3471512-07:00","level":"INFO","msg":"sender: started","stream_id":"woej4rne"}
+{"time":"2025-04-20T18:22:16.3471512-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"woej4rne"}}
+{"time":"2025-04-20T18:22:16.6215174-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T18:22:26.7317309-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-20T19:03:16.2257959-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-20T19:03:16.2393278-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-20T19:03:16.9672771-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-20T19:03:17.2006595-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-20T19:03:18.3224899-07:00","level":"INFO","msg":"stream: closing","id":"woej4rne"}
+{"time":"2025-04-20T19:03:18.3224899-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"woej4rne"}}
+{"time":"2025-04-20T19:03:18.3224899-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"woej4rne"}}
+{"time":"2025-04-20T19:03:18.3224899-07:00","level":"INFO","msg":"sender: closed","stream_id":"woej4rne"}
+{"time":"2025-04-20T19:03:18.3359648-07:00","level":"INFO","msg":"stream: closed","id":"woej4rne"}

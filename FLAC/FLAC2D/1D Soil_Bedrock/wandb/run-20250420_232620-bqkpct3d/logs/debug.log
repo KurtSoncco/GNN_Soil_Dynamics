@@ -1,0 +1,60 @@
+2025-04-20 23:26:20,871 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2025-04-20 23:26:20,872 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Configure stats pid to 25276
+2025-04-20 23:26:20,872 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Loading settings from C:\Users\kurt-\.config\wandb\settings
+2025-04-20 23:26:20,872 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Loading settings from c:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\wandb\settings
+2025-04-20 23:26:20,872 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-04-20 23:26:20,872 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-04-20 23:26:20,873 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-04-20 23:26:20,873 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-04-20 23:26:20,873 INFO    MainThread:25276 [wandb_init.py:_log_setup():533] Logging user logs to c:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\wandb\run-20250420_232620-bqkpct3d\logs\debug.log
+2025-04-20 23:26:20,873 INFO    MainThread:25276 [wandb_init.py:_log_setup():534] Logging internal logs to c:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\wandb\run-20250420_232620-bqkpct3d\logs\debug-internal.log
+2025-04-20 23:26:20,875 INFO    MainThread:25276 [wandb_init.py:init():619] calling init triggers
+2025-04-20 23:26:20,876 INFO    MainThread:25276 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2025-04-20 23:26:20,876 INFO    MainThread:25276 [wandb_init.py:init():644] re-initializing run, found existing run on stack: int2a5ey
+2025-04-20 23:26:20,884 INFO    MainThread:25276 [wandb_run.py:_finish():2146] finishing run kurtwal98-university-of-california-berkeley/ttf-prediction/int2a5ey
+2025-04-20 23:26:20,890 ERROR   MainThread:25276 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2025-04-20 23:26:20,890 INFO    MainThread:25276 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2025-04-20 23:26:20,890 INFO    MainThread:25276 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2025-04-20 23:26:20,891 INFO    MainThread:25276 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2025-04-20 23:26:20,892 INFO    MainThread:25276 [wandb_run.py:_restore():2396] restore
+2025-04-20 23:26:20,895 INFO    MainThread:25276 [wandb_run.py:_restore():2402] restore done
+2025-04-20 23:26:23,847 INFO    MainThread:25276 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-04-20 23:26:23,854 INFO    MainThread:25276 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-04-20 23:26:23,937 INFO    MainThread:25276 [wandb_run.py:_footer_sync_info():3922] logging synced files
+2025-04-20 23:26:23,966 INFO    MainThread:25276 [wandb_init.py:init():669] starting backend
+2025-04-20 23:26:23,966 INFO    MainThread:25276 [wandb_init.py:init():673] sending inform_init request
+2025-04-20 23:26:23,980 INFO    MainThread:25276 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2025-04-20 23:26:23,993 INFO    MainThread:25276 [wandb_init.py:init():686] backend started and connected
+2025-04-20 23:26:24,100 INFO    MainThread:25276 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2025-04-20 23:26:24,146 INFO    MainThread:25276 [wandb_init.py:init():781] updated telemetry
+2025-04-20 23:26:24,219 INFO    MainThread:25276 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2025-04-20 23:26:24,994 INFO    MainThread:25276 [wandb_init.py:init():867] starting run threads in backend
+2025-04-20 23:26:25,458 INFO    MainThread:25276 [wandb_run.py:_console_start():2451] atexit reg
+2025-04-20 23:26:25,460 INFO    MainThread:25276 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2025-04-20 23:26:25,460 INFO    MainThread:25276 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2025-04-20 23:26:25,460 INFO    MainThread:25276 [wandb_run.py:_redirect():2389] Redirects installed.
+2025-04-20 23:26:25,462 INFO    MainThread:25276 [wandb_init.py:init():911] run started, returning control to user process
+2025-04-20 23:26:25,462 INFO    MainThread:25276 [wandb_run.py:_config_callback():1389] config_cb None None {'epochs': 5000, 'batch_size': 100, 'optimizer': 'Adam', 'learning_rate': 0.005, 'latent_dim': 400, 'input_size': 29, 'output_size': 1000, 'fno_modes': 8, 'fno_width': 50, 'fno_channels': 1, 'dropout_rate': 0.1, 'early_stop_patience': 1500}
+2025-04-20 23:41:21,597 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2025-04-20 23:41:21,597 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Configure stats pid to 25276
+2025-04-20 23:41:21,598 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Loading settings from C:\Users\kurt-\.config\wandb\settings
+2025-04-20 23:41:21,598 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Loading settings from c:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\wandb\settings
+2025-04-20 23:41:21,598 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-04-20 23:41:21,598 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-04-20 23:41:21,598 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2025-04-20 23:41:21,599 INFO    MainThread:25276 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-04-20 23:41:21,599 INFO    MainThread:25276 [wandb_init.py:_log_setup():533] Logging user logs to c:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\wandb\run-20250420_234121-7a3ts1gq\logs\debug.log
+2025-04-20 23:41:21,599 INFO    MainThread:25276 [wandb_init.py:_log_setup():534] Logging internal logs to c:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\wandb\run-20250420_234121-7a3ts1gq\logs\debug-internal.log
+2025-04-20 23:41:21,599 INFO    MainThread:25276 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000020DF15DF410>
+2025-04-20 23:41:21,600 INFO    MainThread:25276 [wandb_init.py:init():619] calling init triggers
+2025-04-20 23:41:21,600 INFO    MainThread:25276 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2025-04-20 23:41:21,600 INFO    MainThread:25276 [wandb_init.py:init():644] re-initializing run, found existing run on stack: bqkpct3d
+2025-04-20 23:41:21,602 INFO    MainThread:25276 [wandb_run.py:_finish():2146] finishing run kurtwal98-university-of-california-berkeley/ttf-prediction/bqkpct3d
+2025-04-20 23:41:21,603 INFO    MainThread:25276 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2025-04-20 23:41:21,604 INFO    MainThread:25276 [wandb_run.py:_restore():2396] restore
+2025-04-20 23:41:21,604 INFO    MainThread:25276 [wandb_run.py:_restore():2402] restore done
+2025-04-20 23:41:26,978 INFO    MainThread:25276 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-04-20 23:41:26,979 INFO    MainThread:25276 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-04-20 23:41:26,997 INFO    MainThread:25276 [wandb_run.py:_footer_sync_info():3922] logging synced files

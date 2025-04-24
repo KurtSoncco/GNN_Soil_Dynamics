@@ -1,0 +1,42 @@
+model new
+model title "Simple Frame Model"
+
+; Create geometry
+sketch set create "frame"
+sketch edge create (0,0) (0,5) segments 1
+sketch edge create (0,5) (5,5) segments 1
+sketch edge create (5,5) (5,0) segments 1
+
+; Mesh the model
+sketch block density 0.5
+sketch block create
+
+; Create zones from sketch
+zone create from-sketch
+
+; Assign structural elements
+struct beam create by-line (0,0) (0,5)
+struct beam create by-line (0,5) (5,5)
+struct beam create by-line (5,5) (5,0)
+
+; Assign beam properties
+struct beam property young 2e11 poisson 0.3 area 0.1 i 8.33e-5
+
+; Fix bottom nodes
+zone face apply velocity-x 0 range position-y 0
+zone face apply velocity-y 0 range position-y 0
+
+; Apply force at beam midpoint
+struct node apply force 0,-10000 range position-x 2.5 position-y 5
+
+; Solve the model
+model solve
+
+; Plot deformation
+plot create "Frame Deformation"
+plot add beam
+plot add beam deformation
+plot show
+
+; Save the results
+model save "frame_results"

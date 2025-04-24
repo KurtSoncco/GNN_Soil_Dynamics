@@ -98,7 +98,7 @@ def run_simulation(mat_prop, freq1, t01):
 
 
 # Save results
-def save_results(index, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\HLC Results"):
+def save_results(index, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics\FLAC\FLAC2D\1D Soil_Bedrock\Results"):
     # Load data
     data = pd.read_csv("Data.dat", sep='\\s+', header=None, skiprows=2)
 
@@ -110,13 +110,14 @@ def save_results(index, path=r"C:\Users\kurt-\Documents\GitHub\GNN_Soil_Dynamics
 
 if __name__ == '__main__':
     # Define material properties
-    Vs_values = np.genfromtxt("model_arrays_HLC.csv", delimiter=',', skip_header=1)
+    Vs_values = np.genfromtxt("model_arrays.csv", delimiter=',', skip_header=1)
     freq1 = 1.5
     t01 = 2.5
 
     for i in range(len(Vs_values)):
         # Clean the array eliminating nan values
         Vs_array = Vs_values[i][~np.isnan(Vs_values[i])]
+        print("Vs_array: ", Vs_array)
         
         # Define the mat_prop array
         mat_prop = np.zeros((Vs_array.size, 3))
@@ -131,6 +132,7 @@ if __name__ == '__main__':
         elapsed_time = end_time - start_time
         print("Simulation {} completed in {} seconds".format(i, elapsed_time))
         save_results(i)
+        break
     
     
     print("All simulations completed!")

@@ -1,0 +1,9 @@
+Sizes in the dataset:  750
+Data shapes for input and target:  torch.Size([30]) torch.Size([1000])
+Train, validation and test sizes:  600 75 75
+Number of batches:  12 2 2
+Input shape: torch.Size([50, 30])
+Output shape: torch.Size([50, 1000])
+Using device: cuda
+c:\Users\kurt-\miniconda3\envs\ML\Lib\site-packages\torch\optim\lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(

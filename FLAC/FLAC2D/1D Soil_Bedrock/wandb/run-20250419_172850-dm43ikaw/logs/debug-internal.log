@@ -1,0 +1,18 @@
+{"time":"2025-04-19T17:28:50.4562546-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-19T17:28:50.4562546-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250419_172850-dm43ikaw\\logs\\debug-core.log"}
+{"time":"2025-04-19T17:28:50.5699382-07:00","level":"INFO","msg":"created new stream","id":"dm43ikaw"}
+{"time":"2025-04-19T17:28:50.5699382-07:00","level":"INFO","msg":"stream: started","id":"dm43ikaw"}
+{"time":"2025-04-19T17:28:50.5699382-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dm43ikaw"}}
+{"time":"2025-04-19T17:28:50.5699382-07:00","level":"INFO","msg":"sender: started","stream_id":"dm43ikaw"}
+{"time":"2025-04-19T17:28:50.5699382-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"dm43ikaw"}}
+{"time":"2025-04-19T17:28:50.8052192-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T17:29:00.8061846-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-19T17:34:07.2203199-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T17:34:07.2208958-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T17:34:07.769159-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T17:34:07.9107353-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-19T17:34:08.9263612-07:00","level":"INFO","msg":"stream: closing","id":"dm43ikaw"}
+{"time":"2025-04-19T17:34:08.9263612-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"dm43ikaw"}}
+{"time":"2025-04-19T17:34:08.9263612-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dm43ikaw"}}
+{"time":"2025-04-19T17:34:08.9263612-07:00","level":"INFO","msg":"sender: closed","stream_id":"dm43ikaw"}
+{"time":"2025-04-19T17:34:08.9263612-07:00","level":"INFO","msg":"stream: closed","id":"dm43ikaw"}

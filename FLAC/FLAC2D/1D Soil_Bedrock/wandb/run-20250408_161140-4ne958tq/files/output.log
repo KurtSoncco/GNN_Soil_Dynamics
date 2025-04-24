@@ -1,0 +1,76 @@
+Epoch 1/1000, Train Loss: 42.777379, Val Loss: 23.165222
+Model saved with validation loss: 23.165222
+Epoch 2/1000, Train Loss: 23.194222, Val Loss: 21.435564
+Model saved with validation loss: 21.435564
+Epoch 3/1000, Train Loss: 21.318939, Val Loss: 20.750278
+Model saved with validation loss: 20.750278
+Epoch 4/1000, Train Loss: 20.685476, Val Loss: 20.689143
+Model saved with validation loss: 20.689143
+Epoch 5/1000, Train Loss: 20.580398, Val Loss: 20.623819
+Model saved with validation loss: 20.623819
+Epoch 6/1000, Train Loss: 20.571631, Val Loss: 20.679435
+Epoch 7/1000, Train Loss: 20.535493, Val Loss: 20.707001
+Epoch 8/1000, Train Loss: 20.486202, Val Loss: 20.619678
+Model saved with validation loss: 20.619678
+Epoch 9/1000, Train Loss: 20.436670, Val Loss: 20.604524
+Model saved with validation loss: 20.604524
+Epoch 10/1000, Train Loss: 20.457863, Val Loss: 20.614208
+Epoch 11/1000, Train Loss: 20.442643, Val Loss: 20.617758
+Epoch 12/1000, Train Loss: 20.402342, Val Loss: 20.594865
+Model saved with validation loss: 20.594865
+Epoch 13/1000, Train Loss: 20.427824, Val Loss: 20.598021
+Epoch 14/1000, Train Loss: 20.427564, Val Loss: 20.592341
+Model saved with validation loss: 20.592341
+Epoch 15/1000, Train Loss: 20.395695, Val Loss: 20.588018
+Model saved with validation loss: 20.588018
+Epoch 16/1000, Train Loss: 20.438153, Val Loss: 20.619277
+Epoch 17/1000, Train Loss: 20.441948, Val Loss: 20.609659
+Epoch 18/1000, Train Loss: 20.456526, Val Loss: 20.638968
+Epoch 19/1000, Train Loss: 20.414598, Val Loss: 20.591275
+Epoch 20/1000, Train Loss: 20.447059, Val Loss: 20.652233
+Epoch 21/1000, Train Loss: 20.444287, Val Loss: 20.653757
+Epoch 22/1000, Train Loss: 20.380606, Val Loss: 20.602667
+Epoch 23/1000, Train Loss: 20.389123, Val Loss: 20.607890
+Epoch 24/1000, Train Loss: 20.392138, Val Loss: 20.618155
+Epoch 25/1000, Train Loss: 20.379861, Val Loss: 20.599503
+Epoch 26/1000, Train Loss: 20.378084, Val Loss: 20.589563
+Epoch 27/1000, Train Loss: 20.393282, Val Loss: 20.617394
+Epoch 28/1000, Train Loss: 20.367042, Val Loss: 20.597448
+Epoch 29/1000, Train Loss: 20.359957, Val Loss: 20.603531
+Epoch 30/1000, Train Loss: 20.370634, Val Loss: 20.593558
+Epoch 31/1000, Train Loss: 20.365398, Val Loss: 20.601094
+Epoch 32/1000, Train Loss: 20.357256, Val Loss: 20.598540
+Epoch 33/1000, Train Loss: 20.374667, Val Loss: 20.616576
+Epoch 34/1000, Train Loss: 20.376240, Val Loss: 20.601054
+Epoch 35/1000, Train Loss: 20.364931, Val Loss: 20.595020
+Epoch 36/1000, Train Loss: 20.357206, Val Loss: 20.604697
+Epoch 37/1000, Train Loss: 20.373548, Val Loss: 20.596794
+Epoch 38/1000, Train Loss: 20.365106, Val Loss: 20.598634
+Epoch 39/1000, Train Loss: 20.356167, Val Loss: 20.598204
+Epoch 40/1000, Train Loss: 20.356686, Val Loss: 20.598809
+Epoch 41/1000, Train Loss: 20.383378, Val Loss: 20.599268
+Epoch 42/1000, Train Loss: 20.362706, Val Loss: 20.596614
+Epoch 43/1000, Train Loss: 20.363090, Val Loss: 20.600656
+Epoch 44/1000, Train Loss: 20.366857, Val Loss: 20.597023
+Epoch 45/1000, Train Loss: 20.369107, Val Loss: 20.596524
+Epoch 46/1000, Train Loss: 20.353632, Val Loss: 20.599126
+Epoch 47/1000, Train Loss: 20.357280, Val Loss: 20.598723
+Epoch 48/1000, Train Loss: 20.354363, Val Loss: 20.596434
+Epoch 49/1000, Train Loss: 20.359217, Val Loss: 20.597076
+Epoch 50/1000, Train Loss: 20.364834, Val Loss: 20.597089
+Epoch 51/1000, Train Loss: 20.354799, Val Loss: 20.597208
+Epoch 52/1000, Train Loss: 20.358870, Val Loss: 20.596669
+Epoch 53/1000, Train Loss: 20.360591, Val Loss: 20.597873
+Epoch 54/1000, Train Loss: 20.364985, Val Loss: 20.596942
+Epoch 55/1000, Train Loss: 20.367620, Val Loss: 20.597019
+Epoch 56/1000, Train Loss: 20.346695, Val Loss: 20.597272
+Epoch 57/1000, Train Loss: 20.361394, Val Loss: 20.596894
+Epoch 58/1000, Train Loss: 20.351543, Val Loss: 20.597050
+Epoch 59/1000, Train Loss: 20.362699, Val Loss: 20.596795
+Epoch 60/1000, Train Loss: 20.360934, Val Loss: 20.597149
+Epoch 61/1000, Train Loss: 20.357316, Val Loss: 20.597694
+Epoch 62/1000, Train Loss: 20.362511, Val Loss: 20.596777
+Epoch 63/1000, Train Loss: 20.359352, Val Loss: 20.596635
+Epoch 64/1000, Train Loss: 20.352662, Val Loss: 20.596835
+Epoch 65/1000, Train Loss: 20.364628, Val Loss: 20.597128
+Early stopping triggered after 65 epochs

@@ -1,0 +1,18 @@
+{"time":"2025-04-08T13:45:06.644902-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-08T13:45:06.644902-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250408_134506-wtfl2oyg\\logs\\debug-core.log"}
+{"time":"2025-04-08T13:45:07.4804573-07:00","level":"INFO","msg":"created new stream","id":"wtfl2oyg"}
+{"time":"2025-04-08T13:45:07.4804573-07:00","level":"INFO","msg":"stream: started","id":"wtfl2oyg"}
+{"time":"2025-04-08T13:45:07.480986-07:00","level":"INFO","msg":"sender: started","stream_id":"wtfl2oyg"}
+{"time":"2025-04-08T13:45:07.480986-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"wtfl2oyg"}}
+{"time":"2025-04-08T13:45:07.480986-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wtfl2oyg"}}
+{"time":"2025-04-08T13:45:07.7505539-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-08T13:45:17.7508711-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-08T13:45:20.8656335-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-08T13:45:20.8696115-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-08T13:45:21.8707312-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.8307925}],"total_operations":1}}
+{"time":"2025-04-08T13:45:22.3486638-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-08T13:45:23.5416718-07:00","level":"INFO","msg":"stream: closing","id":"wtfl2oyg"}
+{"time":"2025-04-08T13:45:23.5416718-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"wtfl2oyg"}}
+{"time":"2025-04-08T13:45:23.5416718-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wtfl2oyg"}}
+{"time":"2025-04-08T13:45:23.5416718-07:00","level":"INFO","msg":"sender: closed","stream_id":"wtfl2oyg"}
+{"time":"2025-04-08T13:45:23.5416718-07:00","level":"INFO","msg":"stream: closed","id":"wtfl2oyg"}

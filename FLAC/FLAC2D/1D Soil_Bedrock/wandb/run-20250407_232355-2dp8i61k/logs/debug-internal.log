@@ -1,0 +1,17 @@
+{"time":"2025-04-07T23:23:55.5308999-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-07T23:23:55.5308999-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250407_232355-2dp8i61k\\logs\\debug-core.log"}
+{"time":"2025-04-07T23:23:55.7573577-07:00","level":"INFO","msg":"created new stream","id":"2dp8i61k"}
+{"time":"2025-04-07T23:23:55.7579091-07:00","level":"INFO","msg":"stream: started","id":"2dp8i61k"}
+{"time":"2025-04-07T23:23:55.7579091-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"2dp8i61k"}}
+{"time":"2025-04-07T23:23:55.7593315-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"2dp8i61k"}}
+{"time":"2025-04-07T23:23:55.7593315-07:00","level":"INFO","msg":"sender: started","stream_id":"2dp8i61k"}
+{"time":"2025-04-07T23:23:56.7080172-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T23:24:05.0873991-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T23:24:05.089555-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T23:24:06.0931187-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.7424455}],"total_operations":1}}
+{"time":"2025-04-07T23:24:06.1622293-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T23:24:07.8321364-07:00","level":"INFO","msg":"stream: closing","id":"2dp8i61k"}
+{"time":"2025-04-07T23:24:07.8321364-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"2dp8i61k"}}
+{"time":"2025-04-07T23:24:07.8321364-07:00","level":"INFO","msg":"sender: closed","stream_id":"2dp8i61k"}
+{"time":"2025-04-07T23:24:07.8321364-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"2dp8i61k"}}
+{"time":"2025-04-07T23:24:07.8333081-07:00","level":"INFO","msg":"stream: closed","id":"2dp8i61k"}

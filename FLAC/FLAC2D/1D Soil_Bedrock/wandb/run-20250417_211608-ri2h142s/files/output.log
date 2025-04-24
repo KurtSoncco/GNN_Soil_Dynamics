@@ -1,0 +1,7 @@
+Buffer device: cuda:0, Input device: cuda:0
+Buffer device: cuda:0, Input device: cuda:0
+Inputs device: cuda:0, Targets device: cuda:0, Outputs device: cuda:0
+Loss device: cuda:0
+Using device: cuda
+c:\Users\kurt-\miniconda3\envs\ML\Lib\site-packages\torch\optim\lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(

@@ -1,0 +1,62 @@
+{"time":"2025-04-20T19:09:50.3482687-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-20T19:09:50.3482687-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250420_190950-int2a5ey\\logs\\debug-core.log"}
+{"time":"2025-04-20T19:09:50.4634094-07:00","level":"INFO","msg":"created new stream","id":"int2a5ey"}
+{"time":"2025-04-20T19:09:50.4634094-07:00","level":"INFO","msg":"stream: started","id":"int2a5ey"}
+{"time":"2025-04-20T19:09:50.4634094-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"int2a5ey"}}
+{"time":"2025-04-20T19:09:50.4634094-07:00","level":"INFO","msg":"sender: started","stream_id":"int2a5ey"}
+{"time":"2025-04-20T19:09:50.4634094-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"int2a5ey"}}
+{"time":"2025-04-20T19:09:50.8208305-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T19:10:00.8218162-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-20T19:13:25.0264611-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T22:44:51.6805204-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/int2a5ey/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T22:44:53.721933-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/int2a5ey/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T22:44:54.8506971-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T22:44:56.9595779-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T22:44:58.0957609-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/int2a5ey/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T22:45:01.2904558-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T22:45:07.9499117-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kurtwal98-university-of-california-berkeley/ttf-prediction/int2a5ey/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T22:45:10.8627885-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-04-20T23:26:14.5051911-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:14.6230226-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:14.638064-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:14.6423402-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:14.6539028-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:14.657987-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:14.670626-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:14.8713831-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:14.906406-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:14.9189858-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:14.9390019-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:14.9848186-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:14.995123-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.4363717-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.4444653-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.4504558-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.4631945-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.4668973-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.4796843-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.5032159-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.5151642-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.56485-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.5778719-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.6349182-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.647254-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.6515012-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.6649472-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.7755415-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.7951869-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:15.9447401-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:15.9584721-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:16.0723157-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:16.1012852-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:16.7693411-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T23:26:16.7867434-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T23:26:20.8985158-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-20T23:26:20.9451942-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-20T23:26:21.9029337-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.5477378},{"desc":"uploading wandb-summary.json","runtime_seconds":0.5251948,"progress":"206B/206B"},{"desc":"uploading output.log","runtime_seconds":0.3211239,"progress":"32.8KB/32.8KB"},{"desc":"uploading config.yaml","runtime_seconds":0.3211239,"progress":"834B/834B"}],"total_operations":4}}
+{"time":"2025-04-20T23:26:22.2585006-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-20T23:26:23.9566722-07:00","level":"INFO","msg":"stream: closing","id":"int2a5ey"}
+{"time":"2025-04-20T23:26:23.9573139-07:00","level":"INFO","msg":"sender: closed","stream_id":"int2a5ey"}
+{"time":"2025-04-20T23:26:23.9573139-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"int2a5ey"}}
+{"time":"2025-04-20T23:26:23.9573139-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"int2a5ey"}}
+{"time":"2025-04-20T23:26:23.9586062-07:00","level":"INFO","msg":"stream: closed","id":"int2a5ey"}

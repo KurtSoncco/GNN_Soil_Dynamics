@@ -1,0 +1,25 @@
+{"time":"2025-04-07T16:26:40.1031962-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-07T16:26:40.1031962-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\wandb\\run-20250407_162640-p1l7ddu7\\logs\\debug-core.log"}
+{"time":"2025-04-07T16:26:40.883623-07:00","level":"INFO","msg":"created new stream","id":"p1l7ddu7"}
+{"time":"2025-04-07T16:26:40.8846795-07:00","level":"INFO","msg":"stream: started","id":"p1l7ddu7"}
+{"time":"2025-04-07T16:26:40.8852242-07:00","level":"INFO","msg":"sender: started","stream_id":"p1l7ddu7"}
+{"time":"2025-04-07T16:26:40.8852242-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"p1l7ddu7"}}
+{"time":"2025-04-07T16:26:40.8857523-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"p1l7ddu7"}}
+{"time":"2025-04-07T16:26:41.2118762-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T16:26:43.4253758-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T16:27:07.188134-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T16:27:07.1886403-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T16:27:07.4489519-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T16:27:07.4553902-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T16:27:07.8864767-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T16:27:07.964841-07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-07T16:27:08.2515081-07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-07T16:27:08.2955206-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T16:27:08.2970374-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T16:27:09.3097688-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.8925303}],"total_operations":1}}
+{"time":"2025-04-07T16:27:09.8376161-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T16:27:10.9966843-07:00","level":"INFO","msg":"stream: closing","id":"p1l7ddu7"}
+{"time":"2025-04-07T16:27:10.9966843-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"p1l7ddu7"}}
+{"time":"2025-04-07T16:27:10.9966843-07:00","level":"INFO","msg":"sender: closed","stream_id":"p1l7ddu7"}
+{"time":"2025-04-07T16:27:10.9966843-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"p1l7ddu7"}}
+{"time":"2025-04-07T16:27:10.997197-07:00","level":"INFO","msg":"stream: closed","id":"p1l7ddu7"}

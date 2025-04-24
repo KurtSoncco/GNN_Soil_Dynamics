@@ -1,0 +1,73 @@
+Epoch 1/5000, Train Loss: 41538.972869, Val Loss: 14572.151764, LR: 5.00e-03
+Model saved with validation loss: 14572.151764
+Epoch 2/5000, Train Loss: 5406.049636, Val Loss: 348.510077, LR: 5.00e-03
+Model saved with validation loss: 348.510077
+Epoch 3/5000, Train Loss: 216.339396, Val Loss: 54.164043, LR: 5.00e-03
+Model saved with validation loss: 54.164043
+Epoch 4/5000, Train Loss: 43.048667, Val Loss: 31.459574, LR: 5.00e-03
+Model saved with validation loss: 31.459574
+Epoch 5/5000, Train Loss: 30.588432, Val Loss: 27.950338, LR: 5.00e-03
+Model saved with validation loss: 27.950338
+Epoch 6/5000, Train Loss: 28.147192, Val Loss: 26.822577, LR: 5.00e-03
+Model saved with validation loss: 26.822577
+Epoch 7/5000, Train Loss: 27.054238, Val Loss: 26.119227, LR: 5.00e-03
+Model saved with validation loss: 26.119227
+Epoch 8/5000, Train Loss: 26.393768, Val Loss: 25.565305, LR: 5.00e-03
+Model saved with validation loss: 25.565305
+Epoch 9/5000, Train Loss: 25.732822, Val Loss: 25.115347, LR: 5.00e-03
+Model saved with validation loss: 25.115347
+Epoch 10/5000, Train Loss: 25.295166, Val Loss: 24.921161, LR: 5.00e-03
+Model saved with validation loss: 24.921161
+Epoch 11/5000, Train Loss: 25.023434, Val Loss: 24.587143, LR: 5.00e-03
+Model saved with validation loss: 24.587143
+Epoch 12/5000, Train Loss: 24.670093, Val Loss: 24.254998, LR: 5.00e-03
+Model saved with validation loss: 24.254998
+Epoch 13/5000, Train Loss: 24.392515, Val Loss: 24.068057, LR: 5.00e-03
+Model saved with validation loss: 24.068057
+Epoch 14/5000, Train Loss: 24.217398, Val Loss: 24.026848, LR: 5.00e-03
+Model saved with validation loss: 24.026848
+Epoch 15/5000, Train Loss: 23.946587, Val Loss: 23.763410, LR: 5.00e-03
+Model saved with validation loss: 23.763410
+Epoch 16/5000, Train Loss: 23.809799, Val Loss: 23.662668, LR: 5.00e-03
+Model saved with validation loss: 23.662668
+Epoch 17/5000, Train Loss: 23.565069, Val Loss: 23.526736, LR: 5.00e-03
+Model saved with validation loss: 23.526736
+Epoch 18/5000, Train Loss: 23.462800, Val Loss: 23.664886, LR: 5.00e-03
+Epoch 19/5000, Train Loss: 23.373298, Val Loss: 23.456065, LR: 5.00e-03
+Model saved with validation loss: 23.456065
+Epoch 20/5000, Train Loss: 23.212734, Val Loss: 23.178745, LR: 5.00e-03
+Model saved with validation loss: 23.178745
+Epoch 21/5000, Train Loss: 23.060551, Val Loss: 23.088287, LR: 5.00e-03
+Model saved with validation loss: 23.088287
+Epoch 22/5000, Train Loss: 22.939895, Val Loss: 22.993150, LR: 5.00e-03
+Model saved with validation loss: 22.993150
+Epoch 23/5000, Train Loss: 22.842486, Val Loss: 23.082357, LR: 5.00e-03
+Epoch 24/5000, Train Loss: 22.763739, Val Loss: 22.918784, LR: 5.00e-03
+Model saved with validation loss: 22.918784
+Epoch 25/5000, Train Loss: 22.675649, Val Loss: 22.801445, LR: 5.00e-03
+Model saved with validation loss: 22.801445
+Epoch 26/5000, Train Loss: 22.536939, Val Loss: 22.816576, LR: 5.00e-03
+Epoch 27/5000, Train Loss: 22.481678, Val Loss: 22.747318, LR: 5.00e-03
+Model saved with validation loss: 22.747318
+Epoch 28/5000, Train Loss: 22.435635, Val Loss: 22.591573, LR: 5.00e-03
+Model saved with validation loss: 22.591573
+Epoch 29/5000, Train Loss: 22.352585, Val Loss: 22.684976, LR: 5.00e-03
+Epoch 30/5000, Train Loss: 22.307769, Val Loss: 22.665607, LR: 5.00e-03
+Epoch 31/5000, Train Loss: 22.297540, Val Loss: 22.622265, LR: 5.00e-03
+Epoch 32/5000, Train Loss: 22.222680, Val Loss: 22.537648, LR: 5.00e-03
+Model saved with validation loss: 22.537648
+Epoch 33/5000, Train Loss: 22.139846, Val Loss: 22.480883, LR: 5.00e-03
+Model saved with validation loss: 22.480883
+Epoch 34/5000, Train Loss: 22.024623, Val Loss: 22.450440, LR: 5.00e-03
+Model saved with validation loss: 22.450440
+Epoch 35/5000, Train Loss: 22.019501, Val Loss: 22.395042, LR: 5.00e-03
+Model saved with validation loss: 22.395042
+Epoch 36/5000, Train Loss: 22.003685, Val Loss: 22.265169, LR: 5.00e-03
+Model saved with validation loss: 22.265169
+Epoch 37/5000, Train Loss: 21.930298, Val Loss: 22.306592, LR: 5.00e-03
+Epoch 38/5000, Train Loss: 21.847380, Val Loss: 22.229970, LR: 5.00e-03
+Model saved with validation loss: 22.229970
+Epoch 39/5000, Train Loss: 21.813028, Val Loss: 22.399830, LR: 5.00e-03
+Using device: cuda
+c:\Users\kurt-\miniconda3\envs\ML\Lib\site-packages\torch\optim\lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(

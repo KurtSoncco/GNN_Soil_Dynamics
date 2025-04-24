@@ -1,0 +1,4 @@
+"FLAC2D 9.2.23"
+2025:3:10:11:30:18
+C:\Program Files\Itasca\Itasca Software Subscription\exe64\flac2d9_gui.exe
+Windows 10 Home : 26100

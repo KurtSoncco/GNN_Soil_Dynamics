@@ -1,0 +1,18 @@
+{"time":"2025-04-17T21:30:54.7796064-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-17T21:30:54.7796064-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250417_213054-epz2d9i2\\logs\\debug-core.log"}
+{"time":"2025-04-17T21:30:54.8961197-07:00","level":"INFO","msg":"created new stream","id":"epz2d9i2"}
+{"time":"2025-04-17T21:30:54.8961197-07:00","level":"INFO","msg":"stream: started","id":"epz2d9i2"}
+{"time":"2025-04-17T21:30:54.8961197-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"epz2d9i2"}}
+{"time":"2025-04-17T21:30:54.8961197-07:00","level":"INFO","msg":"sender: started","stream_id":"epz2d9i2"}
+{"time":"2025-04-17T21:30:54.8961197-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"epz2d9i2"}}
+{"time":"2025-04-17T21:30:55.1487327-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-17T21:31:05.1488876-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-17T21:31:50.9075067-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-17T21:31:50.9130903-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-17T21:31:51.596143-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-17T21:31:51.8465713-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-17T21:31:52.8663079-07:00","level":"INFO","msg":"stream: closing","id":"epz2d9i2"}
+{"time":"2025-04-17T21:31:52.8663079-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"epz2d9i2"}}
+{"time":"2025-04-17T21:31:52.8663079-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"epz2d9i2"}}
+{"time":"2025-04-17T21:31:52.8663079-07:00","level":"INFO","msg":"sender: closed","stream_id":"epz2d9i2"}
+{"time":"2025-04-17T21:31:52.8663079-07:00","level":"INFO","msg":"stream: closed","id":"epz2d9i2"}

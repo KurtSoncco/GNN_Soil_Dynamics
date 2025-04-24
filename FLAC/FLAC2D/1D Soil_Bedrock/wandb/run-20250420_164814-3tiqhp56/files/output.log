@@ -1,0 +1,38 @@
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([18, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([9, 400])
+Epoch 1/1000, Train Loss: 368.121284, Val Loss: 40.201841, LR: 5.00e-03
+Model saved with validation loss: 40.201841
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([18, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([9, 400])
+Epoch 2/1000, Train Loss: 27.373512, Val Loss: 24.276283, LR: 5.00e-03
+Model saved with validation loss: 24.276283
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+Encoded:  torch.Size([100, 400])
+(1000, 1000) (1000, 29) (1000,)
+(836, 1000) (836, 29) (1000,)
+Sizes in the dataset:  836
+Data shapes for input and target:  torch.Size([29]) torch.Size([1000])
+Train, validation and test sizes:  418 209 209
+Number of batches:  5 3 3
+torch.Size([100, 29]) torch.Size([100, 1000])
+torch.Size([50, 200, 64])
+torch.Size([50, 200, 64])
+torch.Size([50, 200, 64])
+Input shape: torch.Size([100, 29])
+Output shape: torch.Size([100, 1000])
+Using device: cuda
+c:\Users\kurt-\miniconda3\envs\ML\Lib\site-packages\torch\optim\lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(

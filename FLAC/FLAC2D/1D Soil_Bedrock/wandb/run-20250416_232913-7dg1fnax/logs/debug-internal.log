@@ -1,0 +1,18 @@
+{"time":"2025-04-16T23:29:13.7887041-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-16T23:29:13.7887041-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250416_232913-7dg1fnax\\logs\\debug-core.log"}
+{"time":"2025-04-16T23:29:14.0964301-07:00","level":"INFO","msg":"created new stream","id":"7dg1fnax"}
+{"time":"2025-04-16T23:29:14.0964301-07:00","level":"INFO","msg":"stream: started","id":"7dg1fnax"}
+{"time":"2025-04-16T23:29:14.0964301-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"7dg1fnax"}}
+{"time":"2025-04-16T23:29:14.0971119-07:00","level":"INFO","msg":"sender: started","stream_id":"7dg1fnax"}
+{"time":"2025-04-16T23:29:14.0971119-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"7dg1fnax"}}
+{"time":"2025-04-16T23:29:14.8453596-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-16T23:29:24.8456306-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-16T23:31:34.2839426-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-16T23:31:34.2882587-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-16T23:31:35.2897307-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.2600351},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2369833,"progress":"200B/200B"}],"total_operations":2}}
+{"time":"2025-04-16T23:31:35.8093016-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-16T23:31:37.4289926-07:00","level":"INFO","msg":"stream: closing","id":"7dg1fnax"}
+{"time":"2025-04-16T23:31:37.4289926-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"7dg1fnax"}}
+{"time":"2025-04-16T23:31:37.4289926-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"7dg1fnax"}}
+{"time":"2025-04-16T23:31:37.4299883-07:00","level":"INFO","msg":"sender: closed","stream_id":"7dg1fnax"}
+{"time":"2025-04-16T23:31:37.4299883-07:00","level":"INFO","msg":"stream: closed","id":"7dg1fnax"}

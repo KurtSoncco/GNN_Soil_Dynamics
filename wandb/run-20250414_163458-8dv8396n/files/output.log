@@ -1,0 +1,837 @@
+Epoch 1/20000, Train Loss: 1.995441, Val Loss: 1.891653
+Model saved with validation loss: 1.891653
+Epoch 2/20000, Train Loss: 1.821102, Val Loss: 1.888118
+Model saved with validation loss: 1.888118
+Epoch 3/20000, Train Loss: 1.808978, Val Loss: 1.844703
+Model saved with validation loss: 1.844703
+Epoch 4/20000, Train Loss: 1.792058, Val Loss: 1.833138
+Model saved with validation loss: 1.833138
+Epoch 5/20000, Train Loss: 1.769823, Val Loss: 1.816929
+Model saved with validation loss: 1.816929
+Epoch 6/20000, Train Loss: 1.752666, Val Loss: 1.796829
+Model saved with validation loss: 1.796829
+Epoch 7/20000, Train Loss: 1.734563, Val Loss: 1.761710
+Model saved with validation loss: 1.761710
+Epoch 8/20000, Train Loss: 1.702074, Val Loss: 1.710209
+Model saved with validation loss: 1.710209
+Epoch 9/20000, Train Loss: 1.649360, Val Loss: 1.654005
+Model saved with validation loss: 1.654005
+Epoch 10/20000, Train Loss: 1.602365, Val Loss: 1.618959
+Model saved with validation loss: 1.618959
+Epoch 11/20000, Train Loss: 1.561417, Val Loss: 1.546816
+Model saved with validation loss: 1.546816
+Epoch 12/20000, Train Loss: 1.550773, Val Loss: 1.543225
+Model saved with validation loss: 1.543225
+Epoch 13/20000, Train Loss: 1.507652, Val Loss: 1.495169
+Model saved with validation loss: 1.495169
+Epoch 14/20000, Train Loss: 1.472131, Val Loss: 1.476954
+Model saved with validation loss: 1.476954
+Epoch 15/20000, Train Loss: 1.438895, Val Loss: 1.455470
+Model saved with validation loss: 1.455470
+Epoch 16/20000, Train Loss: 1.433620, Val Loss: 1.424605
+Model saved with validation loss: 1.424605
+Epoch 17/20000, Train Loss: 1.402366, Val Loss: 1.389953
+Model saved with validation loss: 1.389953
+Epoch 18/20000, Train Loss: 1.381842, Val Loss: 1.380699
+Model saved with validation loss: 1.380699
+Epoch 19/20000, Train Loss: 1.358018, Val Loss: 1.344150
+Model saved with validation loss: 1.344150
+Epoch 20/20000, Train Loss: 1.358036, Val Loss: 1.369882
+Epoch 21/20000, Train Loss: 1.324188, Val Loss: 1.331176
+Model saved with validation loss: 1.331176
+Epoch 22/20000, Train Loss: 1.496673, Val Loss: 1.603726
+Epoch 23/20000, Train Loss: 1.463396, Val Loss: 1.370123
+Epoch 24/20000, Train Loss: 1.314362, Val Loss: 1.297033
+Model saved with validation loss: 1.297033
+Epoch 25/20000, Train Loss: 1.308336, Val Loss: 1.293769
+Model saved with validation loss: 1.293769
+Epoch 26/20000, Train Loss: 1.358015, Val Loss: 1.391173
+Epoch 27/20000, Train Loss: 1.391085, Val Loss: 1.294864
+Epoch 28/20000, Train Loss: 1.268742, Val Loss: 1.254933
+Model saved with validation loss: 1.254933
+Epoch 29/20000, Train Loss: 1.248264, Val Loss: 1.239797
+Model saved with validation loss: 1.239797
+Epoch 30/20000, Train Loss: 1.220726, Val Loss: 1.241821
+Epoch 31/20000, Train Loss: 1.215051, Val Loss: 1.220633
+Model saved with validation loss: 1.220633
+Epoch 32/20000, Train Loss: 1.191856, Val Loss: 1.188940
+Model saved with validation loss: 1.188940
+Epoch 33/20000, Train Loss: 1.188262, Val Loss: 1.254372
+Epoch 34/20000, Train Loss: 1.221525, Val Loss: 1.226504
+Epoch 35/20000, Train Loss: 1.179090, Val Loss: 1.178361
+Model saved with validation loss: 1.178361
+Epoch 36/20000, Train Loss: 1.146274, Val Loss: 1.139385
+Model saved with validation loss: 1.139385
+Epoch 37/20000, Train Loss: 1.122095, Val Loss: 1.126382
+Model saved with validation loss: 1.126382
+Epoch 38/20000, Train Loss: 1.121098, Val Loss: 1.149106
+Epoch 39/20000, Train Loss: 1.126318, Val Loss: 1.139814
+Epoch 40/20000, Train Loss: 1.109072, Val Loss: 1.129315
+Epoch 41/20000, Train Loss: 1.112703, Val Loss: 1.111934
+Model saved with validation loss: 1.111934
+Epoch 42/20000, Train Loss: 1.120287, Val Loss: 1.170215
+Epoch 43/20000, Train Loss: 1.137377, Val Loss: 1.210582
+Epoch 44/20000, Train Loss: 1.286266, Val Loss: 1.488886
+Epoch 45/20000, Train Loss: 1.422413, Val Loss: 1.299737
+Epoch 46/20000, Train Loss: 1.174573, Val Loss: 1.127188
+Epoch 47/20000, Train Loss: 1.090820, Val Loss: 1.089234
+Model saved with validation loss: 1.089234
+Epoch 48/20000, Train Loss: 1.094311, Val Loss: 1.095599
+Epoch 49/20000, Train Loss: 1.075355, Val Loss: 1.071344
+Model saved with validation loss: 1.071344
+Epoch 50/20000, Train Loss: 1.078936, Val Loss: 1.087045
+Epoch 51/20000, Train Loss: 1.062924, Val Loss: 1.107965
+Epoch 52/20000, Train Loss: 1.103632, Val Loss: 1.084395
+Epoch 53/20000, Train Loss: 1.076775, Val Loss: 1.047201
+Model saved with validation loss: 1.047201
+Epoch 54/20000, Train Loss: 1.036260, Val Loss: 1.059097
+Epoch 55/20000, Train Loss: 1.037156, Val Loss: 1.096315
+Epoch 56/20000, Train Loss: 1.047321, Val Loss: 1.087314
+Epoch 57/20000, Train Loss: 1.036739, Val Loss: 1.032821
+Model saved with validation loss: 1.032821
+Epoch 58/20000, Train Loss: 1.009866, Val Loss: 1.014324
+Model saved with validation loss: 1.014324
+Epoch 59/20000, Train Loss: 0.997818, Val Loss: 1.008501
+Model saved with validation loss: 1.008501
+Epoch 60/20000, Train Loss: 1.033924, Val Loss: 1.025927
+Epoch 61/20000, Train Loss: 1.021125, Val Loss: 1.022643
+Epoch 62/20000, Train Loss: 1.011747, Val Loss: 1.027112
+Epoch 63/20000, Train Loss: 1.026875, Val Loss: 1.029271
+Epoch 64/20000, Train Loss: 1.071315, Val Loss: 1.043645
+Epoch 65/20000, Train Loss: 1.033890, Val Loss: 1.007804
+Model saved with validation loss: 1.007804
+Epoch 66/20000, Train Loss: 0.984802, Val Loss: 1.013763
+Epoch 67/20000, Train Loss: 0.974242, Val Loss: 1.034897
+Epoch 68/20000, Train Loss: 0.986539, Val Loss: 1.001115
+Model saved with validation loss: 1.001115
+Epoch 69/20000, Train Loss: 0.968451, Val Loss: 1.008631
+Epoch 70/20000, Train Loss: 0.982567, Val Loss: 0.976018
+Model saved with validation loss: 0.976018
+Epoch 71/20000, Train Loss: 1.000137, Val Loss: 1.044882
+Epoch 72/20000, Train Loss: 1.000220, Val Loss: 1.068530
+Epoch 73/20000, Train Loss: 0.970667, Val Loss: 0.983528
+Epoch 74/20000, Train Loss: 0.935129, Val Loss: 0.994642
+Epoch 75/20000, Train Loss: 0.943391, Val Loss: 0.985481
+Epoch 76/20000, Train Loss: 0.962576, Val Loss: 1.028054
+Epoch 77/20000, Train Loss: 0.921903, Val Loss: 0.923099
+Model saved with validation loss: 0.923099
+Epoch 78/20000, Train Loss: 0.876538, Val Loss: 0.913762
+Model saved with validation loss: 0.913762
+Epoch 79/20000, Train Loss: 0.870363, Val Loss: 0.880489
+Model saved with validation loss: 0.880489
+Epoch 80/20000, Train Loss: 0.855855, Val Loss: 0.882499
+Epoch 81/20000, Train Loss: 0.858656, Val Loss: 0.878828
+Model saved with validation loss: 0.878828
+Epoch 82/20000, Train Loss: 0.851371, Val Loss: 0.876725
+Model saved with validation loss: 0.876725
+Epoch 83/20000, Train Loss: 0.848826, Val Loss: 0.872280
+Model saved with validation loss: 0.872280
+Epoch 84/20000, Train Loss: 0.834626, Val Loss: 0.855434
+Model saved with validation loss: 0.855434
+Epoch 85/20000, Train Loss: 0.830562, Val Loss: 0.858972
+Epoch 86/20000, Train Loss: 0.837916, Val Loss: 0.845924
+Model saved with validation loss: 0.845924
+Epoch 87/20000, Train Loss: 0.837262, Val Loss: 0.858846
+Epoch 88/20000, Train Loss: 0.835183, Val Loss: 0.891686
+Epoch 89/20000, Train Loss: 0.829711, Val Loss: 0.864352
+Epoch 90/20000, Train Loss: 0.820937, Val Loss: 0.848542
+Epoch 91/20000, Train Loss: 0.824687, Val Loss: 0.878125
+Epoch 92/20000, Train Loss: 0.846133, Val Loss: 0.879552
+Epoch 93/20000, Train Loss: 0.810347, Val Loss: 0.823013
+Model saved with validation loss: 0.823013
+Epoch 94/20000, Train Loss: 0.785038, Val Loss: 0.815692
+Model saved with validation loss: 0.815692
+Epoch 95/20000, Train Loss: 0.773881, Val Loss: 0.791647
+Model saved with validation loss: 0.791647
+Epoch 96/20000, Train Loss: 0.771659, Val Loss: 0.800148
+Epoch 97/20000, Train Loss: 0.765927, Val Loss: 0.795363
+Epoch 98/20000, Train Loss: 0.768526, Val Loss: 0.794281
+Epoch 99/20000, Train Loss: 0.763626, Val Loss: 0.782925
+Model saved with validation loss: 0.782925
+Epoch 100/20000, Train Loss: 0.762194, Val Loss: 0.786854
+Epoch 101/20000, Train Loss: 0.764474, Val Loss: 0.787179
+Epoch 102/20000, Train Loss: 0.760341, Val Loss: 0.786234
+Epoch 103/20000, Train Loss: 0.763451, Val Loss: 0.790750
+Epoch 104/20000, Train Loss: 0.755618, Val Loss: 0.783072
+Epoch 105/20000, Train Loss: 0.753236, Val Loss: 0.785683
+Epoch 106/20000, Train Loss: 0.737651, Val Loss: 0.761288
+Model saved with validation loss: 0.761288
+Epoch 107/20000, Train Loss: 0.729901, Val Loss: 0.758659
+Model saved with validation loss: 0.758659
+Epoch 108/20000, Train Loss: 0.728436, Val Loss: 0.757420
+Model saved with validation loss: 0.757420
+Epoch 109/20000, Train Loss: 0.727945, Val Loss: 0.757233
+Model saved with validation loss: 0.757233
+Epoch 110/20000, Train Loss: 0.729866, Val Loss: 0.760178
+Epoch 111/20000, Train Loss: 0.726094, Val Loss: 0.752066
+Model saved with validation loss: 0.752066
+Epoch 112/20000, Train Loss: 0.720595, Val Loss: 0.746744
+Model saved with validation loss: 0.746744
+Epoch 113/20000, Train Loss: 0.720189, Val Loss: 0.748199
+Epoch 114/20000, Train Loss: 0.720148, Val Loss: 0.745407
+Model saved with validation loss: 0.745407
+Epoch 115/20000, Train Loss: 0.717092, Val Loss: 0.749234
+Epoch 116/20000, Train Loss: 0.716593, Val Loss: 0.743359
+Model saved with validation loss: 0.743359
+Epoch 117/20000, Train Loss: 0.717378, Val Loss: 0.744399
+Epoch 118/20000, Train Loss: 0.715894, Val Loss: 0.741320
+Model saved with validation loss: 0.741320
+Epoch 119/20000, Train Loss: 0.714244, Val Loss: 0.741937
+Epoch 120/20000, Train Loss: 0.715240, Val Loss: 0.740733
+Model saved with validation loss: 0.740733
+Epoch 121/20000, Train Loss: 0.711229, Val Loss: 0.741398
+Epoch 122/20000, Train Loss: 0.708924, Val Loss: 0.737048
+Model saved with validation loss: 0.737048
+Epoch 123/20000, Train Loss: 0.710567, Val Loss: 0.744508
+Epoch 124/20000, Train Loss: 0.709064, Val Loss: 0.735484
+Model saved with validation loss: 0.735484
+Epoch 125/20000, Train Loss: 0.704706, Val Loss: 0.731492
+Model saved with validation loss: 0.731492
+Epoch 126/20000, Train Loss: 0.702029, Val Loss: 0.724951
+Model saved with validation loss: 0.724951
+Epoch 127/20000, Train Loss: 0.699672, Val Loss: 0.730543
+Epoch 128/20000, Train Loss: 0.702485, Val Loss: 0.730025
+Epoch 129/20000, Train Loss: 0.703945, Val Loss: 0.732841
+Epoch 130/20000, Train Loss: 0.703555, Val Loss: 0.735477
+Epoch 131/20000, Train Loss: 0.703082, Val Loss: 0.727130
+Epoch 132/20000, Train Loss: 0.702517, Val Loss: 0.730304
+Epoch 133/20000, Train Loss: 0.693813, Val Loss: 0.715458
+Model saved with validation loss: 0.715458
+Epoch 134/20000, Train Loss: 0.687321, Val Loss: 0.711443
+Model saved with validation loss: 0.711443
+Epoch 135/20000, Train Loss: 0.686158, Val Loss: 0.713384
+Epoch 136/20000, Train Loss: 0.686088, Val Loss: 0.712538
+Epoch 137/20000, Train Loss: 0.686155, Val Loss: 0.712394
+Epoch 138/20000, Train Loss: 0.684557, Val Loss: 0.710804
+Model saved with validation loss: 0.710804
+Epoch 139/20000, Train Loss: 0.685300, Val Loss: 0.713830
+Epoch 140/20000, Train Loss: 0.683878, Val Loss: 0.710462
+Model saved with validation loss: 0.710462
+Epoch 141/20000, Train Loss: 0.681508, Val Loss: 0.708252
+Model saved with validation loss: 0.708252
+Epoch 142/20000, Train Loss: 0.682177, Val Loss: 0.711758
+Epoch 143/20000, Train Loss: 0.682936, Val Loss: 0.708067
+Model saved with validation loss: 0.708067
+Epoch 144/20000, Train Loss: 0.680785, Val Loss: 0.706675
+Model saved with validation loss: 0.706675
+Epoch 145/20000, Train Loss: 0.679917, Val Loss: 0.709823
+Epoch 146/20000, Train Loss: 0.681638, Val Loss: 0.707783
+Epoch 147/20000, Train Loss: 0.681016, Val Loss: 0.706420
+Model saved with validation loss: 0.706420
+Epoch 148/20000, Train Loss: 0.680099, Val Loss: 0.712217
+Epoch 149/20000, Train Loss: 0.680622, Val Loss: 0.705956
+Model saved with validation loss: 0.705956
+Epoch 150/20000, Train Loss: 0.678829, Val Loss: 0.705124
+Model saved with validation loss: 0.705124
+Epoch 151/20000, Train Loss: 0.677121, Val Loss: 0.702339
+Model saved with validation loss: 0.702339
+Epoch 152/20000, Train Loss: 0.675246, Val Loss: 0.702661
+Epoch 153/20000, Train Loss: 0.675300, Val Loss: 0.701378
+Model saved with validation loss: 0.701378
+Epoch 154/20000, Train Loss: 0.674495, Val Loss: 0.701115
+Model saved with validation loss: 0.701115
+Epoch 155/20000, Train Loss: 0.675593, Val Loss: 0.701936
+Epoch 156/20000, Train Loss: 0.677083, Val Loss: 0.702295
+Epoch 157/20000, Train Loss: 0.673757, Val Loss: 0.701010
+Model saved with validation loss: 0.701010
+Epoch 158/20000, Train Loss: 0.674390, Val Loss: 0.701948
+Epoch 159/20000, Train Loss: 0.673047, Val Loss: 0.700564
+Model saved with validation loss: 0.700564
+Epoch 160/20000, Train Loss: 0.673650, Val Loss: 0.701103
+Epoch 161/20000, Train Loss: 0.674052, Val Loss: 0.700744
+Epoch 162/20000, Train Loss: 0.673009, Val Loss: 0.695949
+Model saved with validation loss: 0.695949
+Epoch 163/20000, Train Loss: 0.671976, Val Loss: 0.697778
+Epoch 164/20000, Train Loss: 0.671359, Val Loss: 0.696755
+Epoch 165/20000, Train Loss: 0.669838, Val Loss: 0.697500
+Epoch 166/20000, Train Loss: 0.671755, Val Loss: 0.697625
+Epoch 167/20000, Train Loss: 0.672198, Val Loss: 0.707547
+Epoch 168/20000, Train Loss: 0.673330, Val Loss: 0.695998
+Epoch 169/20000, Train Loss: 0.666598, Val Loss: 0.690222
+Model saved with validation loss: 0.690222
+Epoch 170/20000, Train Loss: 0.663845, Val Loss: 0.688365
+Model saved with validation loss: 0.688365
+Epoch 171/20000, Train Loss: 0.662541, Val Loss: 0.688417
+Epoch 172/20000, Train Loss: 0.662196, Val Loss: 0.687360
+Model saved with validation loss: 0.687360
+Epoch 173/20000, Train Loss: 0.662108, Val Loss: 0.687887
+Epoch 174/20000, Train Loss: 0.661716, Val Loss: 0.687512
+Epoch 175/20000, Train Loss: 0.661447, Val Loss: 0.687463
+Epoch 176/20000, Train Loss: 0.661282, Val Loss: 0.687172
+Model saved with validation loss: 0.687172
+Epoch 177/20000, Train Loss: 0.661059, Val Loss: 0.687915
+Epoch 178/20000, Train Loss: 0.661764, Val Loss: 0.688879
+Epoch 179/20000, Train Loss: 0.661345, Val Loss: 0.686043
+Model saved with validation loss: 0.686043
+Epoch 180/20000, Train Loss: 0.660741, Val Loss: 0.686319
+Epoch 181/20000, Train Loss: 0.660321, Val Loss: 0.685978
+Model saved with validation loss: 0.685978
+Epoch 182/20000, Train Loss: 0.660054, Val Loss: 0.685415
+Model saved with validation loss: 0.685415
+Epoch 183/20000, Train Loss: 0.659737, Val Loss: 0.685209
+Model saved with validation loss: 0.685209
+Epoch 184/20000, Train Loss: 0.659390, Val Loss: 0.684783
+Model saved with validation loss: 0.684783
+Epoch 185/20000, Train Loss: 0.659182, Val Loss: 0.685672
+Epoch 186/20000, Train Loss: 0.659993, Val Loss: 0.684579
+Model saved with validation loss: 0.684579
+Epoch 187/20000, Train Loss: 0.659830, Val Loss: 0.686148
+Epoch 188/20000, Train Loss: 0.659264, Val Loss: 0.683671
+Model saved with validation loss: 0.683671
+Epoch 189/20000, Train Loss: 0.658213, Val Loss: 0.683657
+Model saved with validation loss: 0.683657
+Epoch 190/20000, Train Loss: 0.657851, Val Loss: 0.683994
+Epoch 191/20000, Train Loss: 0.657917, Val Loss: 0.682860
+Model saved with validation loss: 0.682860
+Epoch 192/20000, Train Loss: 0.657877, Val Loss: 0.684313
+Epoch 193/20000, Train Loss: 0.657711, Val Loss: 0.682853
+Model saved with validation loss: 0.682853
+Epoch 194/20000, Train Loss: 0.656744, Val Loss: 0.681951
+Model saved with validation loss: 0.681951
+Epoch 195/20000, Train Loss: 0.656330, Val Loss: 0.682026
+Epoch 196/20000, Train Loss: 0.656167, Val Loss: 0.684047
+Epoch 197/20000, Train Loss: 0.656588, Val Loss: 0.682320
+Epoch 198/20000, Train Loss: 0.656194, Val Loss: 0.680745
+Model saved with validation loss: 0.680745
+Epoch 199/20000, Train Loss: 0.655753, Val Loss: 0.681109
+Epoch 200/20000, Train Loss: 0.655868, Val Loss: 0.680322
+Model saved with validation loss: 0.680322
+Epoch 201/20000, Train Loss: 0.654842, Val Loss: 0.679458
+Model saved with validation loss: 0.679458
+Epoch 202/20000, Train Loss: 0.655041, Val Loss: 0.681131
+Epoch 203/20000, Train Loss: 0.656659, Val Loss: 0.680218
+Epoch 204/20000, Train Loss: 0.655772, Val Loss: 0.681168
+Epoch 205/20000, Train Loss: 0.654891, Val Loss: 0.679219
+Model saved with validation loss: 0.679219
+Epoch 206/20000, Train Loss: 0.654688, Val Loss: 0.681510
+Epoch 207/20000, Train Loss: 0.655111, Val Loss: 0.680395
+Epoch 208/20000, Train Loss: 0.654356, Val Loss: 0.678532
+Model saved with validation loss: 0.678532
+Epoch 209/20000, Train Loss: 0.653346, Val Loss: 0.678486
+Model saved with validation loss: 0.678486
+Epoch 210/20000, Train Loss: 0.653321, Val Loss: 0.677456
+Model saved with validation loss: 0.677456
+Epoch 211/20000, Train Loss: 0.653250, Val Loss: 0.677983
+Epoch 212/20000, Train Loss: 0.653225, Val Loss: 0.679451
+Epoch 213/20000, Train Loss: 0.652951, Val Loss: 0.678183
+Epoch 214/20000, Train Loss: 0.652669, Val Loss: 0.676805
+Model saved with validation loss: 0.676805
+Epoch 215/20000, Train Loss: 0.651631, Val Loss: 0.677222
+Epoch 216/20000, Train Loss: 0.651908, Val Loss: 0.676188
+Model saved with validation loss: 0.676188
+Epoch 217/20000, Train Loss: 0.651993, Val Loss: 0.677589
+Epoch 218/20000, Train Loss: 0.651670, Val Loss: 0.675435
+Model saved with validation loss: 0.675435
+Epoch 219/20000, Train Loss: 0.651111, Val Loss: 0.677991
+Epoch 220/20000, Train Loss: 0.651644, Val Loss: 0.678569
+Epoch 221/20000, Train Loss: 0.652206, Val Loss: 0.676879
+Epoch 222/20000, Train Loss: 0.651883, Val Loss: 0.677467
+Epoch 223/20000, Train Loss: 0.650861, Val Loss: 0.675328
+Model saved with validation loss: 0.675328
+Epoch 224/20000, Train Loss: 0.650013, Val Loss: 0.675186
+Model saved with validation loss: 0.675186
+Epoch 225/20000, Train Loss: 0.650455, Val Loss: 0.675458
+Epoch 226/20000, Train Loss: 0.649728, Val Loss: 0.672816
+Model saved with validation loss: 0.672816
+Epoch 227/20000, Train Loss: 0.649744, Val Loss: 0.674720
+Epoch 228/20000, Train Loss: 0.648652, Val Loss: 0.672527
+Model saved with validation loss: 0.672527
+Epoch 229/20000, Train Loss: 0.648812, Val Loss: 0.673360
+Epoch 230/20000, Train Loss: 0.649278, Val Loss: 0.672772
+Epoch 231/20000, Train Loss: 0.647932, Val Loss: 0.671969
+Model saved with validation loss: 0.671969
+Epoch 232/20000, Train Loss: 0.648740, Val Loss: 0.673476
+Epoch 233/20000, Train Loss: 0.648410, Val Loss: 0.673392
+Epoch 234/20000, Train Loss: 0.648080, Val Loss: 0.671830
+Model saved with validation loss: 0.671830
+Epoch 235/20000, Train Loss: 0.647137, Val Loss: 0.672333
+Epoch 236/20000, Train Loss: 0.648502, Val Loss: 0.672362
+Epoch 237/20000, Train Loss: 0.646921, Val Loss: 0.671284
+Model saved with validation loss: 0.671284
+Epoch 238/20000, Train Loss: 0.646504, Val Loss: 0.671993
+Epoch 239/20000, Train Loss: 0.646596, Val Loss: 0.671115
+Model saved with validation loss: 0.671115
+Epoch 240/20000, Train Loss: 0.646416, Val Loss: 0.670569
+Model saved with validation loss: 0.670569
+Epoch 241/20000, Train Loss: 0.646191, Val Loss: 0.669113
+Model saved with validation loss: 0.669113
+Epoch 242/20000, Train Loss: 0.645735, Val Loss: 0.669246
+Epoch 243/20000, Train Loss: 0.645994, Val Loss: 0.670830
+Epoch 244/20000, Train Loss: 0.646918, Val Loss: 0.672173
+Epoch 245/20000, Train Loss: 0.647165, Val Loss: 0.669958
+Epoch 246/20000, Train Loss: 0.645196, Val Loss: 0.667922
+Model saved with validation loss: 0.667922
+Epoch 247/20000, Train Loss: 0.644356, Val Loss: 0.669307
+Epoch 248/20000, Train Loss: 0.646008, Val Loss: 0.669264
+Epoch 249/20000, Train Loss: 0.645108, Val Loss: 0.670643
+Epoch 250/20000, Train Loss: 0.646635, Val Loss: 0.669385
+Epoch 251/20000, Train Loss: 0.644323, Val Loss: 0.667821
+Model saved with validation loss: 0.667821
+Epoch 252/20000, Train Loss: 0.643281, Val Loss: 0.667194
+Model saved with validation loss: 0.667194
+Epoch 253/20000, Train Loss: 0.643517, Val Loss: 0.668272
+Epoch 254/20000, Train Loss: 0.643584, Val Loss: 0.666750
+Model saved with validation loss: 0.666750
+Epoch 255/20000, Train Loss: 0.642908, Val Loss: 0.665412
+Model saved with validation loss: 0.665412
+Epoch 256/20000, Train Loss: 0.644483, Val Loss: 0.667467
+Epoch 257/20000, Train Loss: 0.642220, Val Loss: 0.666160
+Epoch 258/20000, Train Loss: 0.641825, Val Loss: 0.665380
+Model saved with validation loss: 0.665380
+Epoch 259/20000, Train Loss: 0.641971, Val Loss: 0.664516
+Model saved with validation loss: 0.664516
+Epoch 260/20000, Train Loss: 0.641110, Val Loss: 0.664298
+Model saved with validation loss: 0.664298
+Epoch 261/20000, Train Loss: 0.640767, Val Loss: 0.664409
+Epoch 262/20000, Train Loss: 0.640268, Val Loss: 0.664244
+Model saved with validation loss: 0.664244
+Epoch 263/20000, Train Loss: 0.640775, Val Loss: 0.664141
+Model saved with validation loss: 0.664141
+Epoch 264/20000, Train Loss: 0.642113, Val Loss: 0.668096
+Epoch 265/20000, Train Loss: 0.642461, Val Loss: 0.665933
+Epoch 266/20000, Train Loss: 0.640858, Val Loss: 0.663702
+Model saved with validation loss: 0.663702
+Epoch 267/20000, Train Loss: 0.639463, Val Loss: 0.662587
+Model saved with validation loss: 0.662587
+Epoch 268/20000, Train Loss: 0.638925, Val Loss: 0.662198
+Model saved with validation loss: 0.662198
+Epoch 269/20000, Train Loss: 0.638949, Val Loss: 0.662684
+Epoch 270/20000, Train Loss: 0.640301, Val Loss: 0.662537
+Epoch 271/20000, Train Loss: 0.640144, Val Loss: 0.662618
+Epoch 272/20000, Train Loss: 0.639156, Val Loss: 0.663474
+Epoch 273/20000, Train Loss: 0.639320, Val Loss: 0.661776
+Model saved with validation loss: 0.661776
+Epoch 274/20000, Train Loss: 0.638929, Val Loss: 0.661641
+Model saved with validation loss: 0.661641
+Epoch 275/20000, Train Loss: 0.638233, Val Loss: 0.662210
+Epoch 276/20000, Train Loss: 0.638704, Val Loss: 0.665261
+Epoch 277/20000, Train Loss: 0.639698, Val Loss: 0.662757
+Epoch 278/20000, Train Loss: 0.638918, Val Loss: 0.662627
+Epoch 279/20000, Train Loss: 0.638676, Val Loss: 0.662545
+Epoch 280/20000, Train Loss: 0.637874, Val Loss: 0.659675
+Model saved with validation loss: 0.659675
+Epoch 281/20000, Train Loss: 0.637336, Val Loss: 0.660315
+Epoch 282/20000, Train Loss: 0.637637, Val Loss: 0.658799
+Model saved with validation loss: 0.658799
+Epoch 283/20000, Train Loss: 0.635838, Val Loss: 0.659429
+Epoch 284/20000, Train Loss: 0.635872, Val Loss: 0.658751
+Model saved with validation loss: 0.658751
+Epoch 285/20000, Train Loss: 0.635967, Val Loss: 0.659263
+Epoch 286/20000, Train Loss: 0.636878, Val Loss: 0.660142
+Epoch 287/20000, Train Loss: 0.636323, Val Loss: 0.658283
+Model saved with validation loss: 0.658283
+Epoch 288/20000, Train Loss: 0.636341, Val Loss: 0.659179
+Epoch 289/20000, Train Loss: 0.636276, Val Loss: 0.658463
+Epoch 290/20000, Train Loss: 0.635129, Val Loss: 0.656551
+Model saved with validation loss: 0.656551
+Epoch 291/20000, Train Loss: 0.635088, Val Loss: 0.659577
+Epoch 292/20000, Train Loss: 0.636257, Val Loss: 0.660164
+Epoch 293/20000, Train Loss: 0.635005, Val Loss: 0.655748
+Model saved with validation loss: 0.655748
+Epoch 294/20000, Train Loss: 0.634295, Val Loss: 0.657294
+Epoch 295/20000, Train Loss: 0.634853, Val Loss: 0.658485
+Epoch 296/20000, Train Loss: 0.634259, Val Loss: 0.656656
+Epoch 297/20000, Train Loss: 0.633305, Val Loss: 0.654621
+Model saved with validation loss: 0.654621
+Epoch 298/20000, Train Loss: 0.633793, Val Loss: 0.659038
+Epoch 299/20000, Train Loss: 0.636157, Val Loss: 0.659680
+Epoch 300/20000, Train Loss: 0.634633, Val Loss: 0.655586
+Epoch 301/20000, Train Loss: 0.633138, Val Loss: 0.655759
+Epoch 302/20000, Train Loss: 0.632915, Val Loss: 0.656037
+Epoch 303/20000, Train Loss: 0.633279, Val Loss: 0.654597
+Model saved with validation loss: 0.654597
+Epoch 304/20000, Train Loss: 0.630337, Val Loss: 0.652155
+Model saved with validation loss: 0.652155
+Epoch 305/20000, Train Loss: 0.629119, Val Loss: 0.651177
+Model saved with validation loss: 0.651177
+Epoch 306/20000, Train Loss: 0.629041, Val Loss: 0.651758
+Epoch 307/20000, Train Loss: 0.629145, Val Loss: 0.651889
+Epoch 308/20000, Train Loss: 0.629052, Val Loss: 0.651193
+Epoch 309/20000, Train Loss: 0.628738, Val Loss: 0.651326
+Epoch 310/20000, Train Loss: 0.628931, Val Loss: 0.651184
+Epoch 311/20000, Train Loss: 0.628491, Val Loss: 0.650836
+Model saved with validation loss: 0.650836
+Epoch 312/20000, Train Loss: 0.628473, Val Loss: 0.650396
+Model saved with validation loss: 0.650396
+Epoch 313/20000, Train Loss: 0.628315, Val Loss: 0.650493
+Epoch 314/20000, Train Loss: 0.628209, Val Loss: 0.650696
+Epoch 315/20000, Train Loss: 0.628281, Val Loss: 0.650701
+Epoch 316/20000, Train Loss: 0.628033, Val Loss: 0.650568
+Epoch 317/20000, Train Loss: 0.628263, Val Loss: 0.650533
+Epoch 318/20000, Train Loss: 0.628129, Val Loss: 0.650845
+Epoch 319/20000, Train Loss: 0.627445, Val Loss: 0.649301
+Model saved with validation loss: 0.649301
+Epoch 320/20000, Train Loss: 0.626827, Val Loss: 0.649024
+Model saved with validation loss: 0.649024
+Epoch 321/20000, Train Loss: 0.626645, Val Loss: 0.648971
+Model saved with validation loss: 0.648971
+Epoch 322/20000, Train Loss: 0.626590, Val Loss: 0.648953
+Model saved with validation loss: 0.648953
+Epoch 323/20000, Train Loss: 0.626441, Val Loss: 0.648673
+Model saved with validation loss: 0.648673
+Epoch 324/20000, Train Loss: 0.626385, Val Loss: 0.648471
+Model saved with validation loss: 0.648471
+Epoch 325/20000, Train Loss: 0.626333, Val Loss: 0.648544
+Epoch 326/20000, Train Loss: 0.626303, Val Loss: 0.648583
+Epoch 327/20000, Train Loss: 0.626210, Val Loss: 0.648515
+Epoch 328/20000, Train Loss: 0.626239, Val Loss: 0.648484
+Epoch 329/20000, Train Loss: 0.626108, Val Loss: 0.648198
+Model saved with validation loss: 0.648198
+Epoch 330/20000, Train Loss: 0.626026, Val Loss: 0.648341
+Epoch 331/20000, Train Loss: 0.625922, Val Loss: 0.648100
+Model saved with validation loss: 0.648100
+Epoch 332/20000, Train Loss: 0.625863, Val Loss: 0.647979
+Model saved with validation loss: 0.647979
+Epoch 333/20000, Train Loss: 0.625879, Val Loss: 0.648012
+Epoch 334/20000, Train Loss: 0.625757, Val Loss: 0.648112
+Epoch 335/20000, Train Loss: 0.625745, Val Loss: 0.648034
+Epoch 336/20000, Train Loss: 0.625708, Val Loss: 0.648095
+Epoch 337/20000, Train Loss: 0.625657, Val Loss: 0.647822
+Model saved with validation loss: 0.647822
+Epoch 338/20000, Train Loss: 0.625628, Val Loss: 0.647738
+Model saved with validation loss: 0.647738
+Epoch 339/20000, Train Loss: 0.625446, Val Loss: 0.647673
+Model saved with validation loss: 0.647673
+Epoch 340/20000, Train Loss: 0.625402, Val Loss: 0.647510
+Model saved with validation loss: 0.647510
+Epoch 341/20000, Train Loss: 0.625313, Val Loss: 0.647639
+Epoch 342/20000, Train Loss: 0.625310, Val Loss: 0.647465
+Model saved with validation loss: 0.647465
+Epoch 343/20000, Train Loss: 0.625280, Val Loss: 0.647388
+Model saved with validation loss: 0.647388
+Epoch 344/20000, Train Loss: 0.625347, Val Loss: 0.647656
+Epoch 345/20000, Train Loss: 0.625409, Val Loss: 0.647496
+Epoch 346/20000, Train Loss: 0.625575, Val Loss: 0.647508
+Epoch 347/20000, Train Loss: 0.625500, Val Loss: 0.647365
+Model saved with validation loss: 0.647365
+Epoch 348/20000, Train Loss: 0.625248, Val Loss: 0.647248
+Model saved with validation loss: 0.647248
+Epoch 349/20000, Train Loss: 0.625112, Val Loss: 0.647262
+Epoch 350/20000, Train Loss: 0.624824, Val Loss: 0.646802
+Model saved with validation loss: 0.646802
+Epoch 351/20000, Train Loss: 0.624779, Val Loss: 0.646763
+Model saved with validation loss: 0.646763
+Epoch 352/20000, Train Loss: 0.624698, Val Loss: 0.646717
+Model saved with validation loss: 0.646717
+Epoch 353/20000, Train Loss: 0.624812, Val Loss: 0.646541
+Model saved with validation loss: 0.646541
+Epoch 354/20000, Train Loss: 0.624772, Val Loss: 0.646660
+Epoch 355/20000, Train Loss: 0.624653, Val Loss: 0.646559
+Epoch 356/20000, Train Loss: 0.624615, Val Loss: 0.646482
+Model saved with validation loss: 0.646482
+Epoch 357/20000, Train Loss: 0.624423, Val Loss: 0.646165
+Model saved with validation loss: 0.646165
+Epoch 358/20000, Train Loss: 0.624332, Val Loss: 0.646353
+Epoch 359/20000, Train Loss: 0.624244, Val Loss: 0.646187
+Epoch 360/20000, Train Loss: 0.624302, Val Loss: 0.646323
+Epoch 361/20000, Train Loss: 0.624255, Val Loss: 0.646152
+Model saved with validation loss: 0.646152
+Epoch 362/20000, Train Loss: 0.624296, Val Loss: 0.646246
+Epoch 363/20000, Train Loss: 0.624120, Val Loss: 0.645948
+Model saved with validation loss: 0.645948
+Epoch 364/20000, Train Loss: 0.623980, Val Loss: 0.646213
+Epoch 365/20000, Train Loss: 0.624000, Val Loss: 0.645828
+Model saved with validation loss: 0.645828
+Epoch 366/20000, Train Loss: 0.624039, Val Loss: 0.646084
+Epoch 367/20000, Train Loss: 0.623873, Val Loss: 0.645666
+Model saved with validation loss: 0.645666
+Epoch 368/20000, Train Loss: 0.623850, Val Loss: 0.645570
+Model saved with validation loss: 0.645570
+Epoch 369/20000, Train Loss: 0.623956, Val Loss: 0.645675
+Epoch 370/20000, Train Loss: 0.623920, Val Loss: 0.645815
+Epoch 371/20000, Train Loss: 0.623950, Val Loss: 0.645673
+Epoch 372/20000, Train Loss: 0.623823, Val Loss: 0.645539
+Model saved with validation loss: 0.645539
+Epoch 373/20000, Train Loss: 0.623670, Val Loss: 0.645428
+Model saved with validation loss: 0.645428
+Epoch 374/20000, Train Loss: 0.623616, Val Loss: 0.645416
+Model saved with validation loss: 0.645416
+Epoch 375/20000, Train Loss: 0.623427, Val Loss: 0.645098
+Model saved with validation loss: 0.645098
+Epoch 376/20000, Train Loss: 0.623364, Val Loss: 0.645156
+Epoch 377/20000, Train Loss: 0.623300, Val Loss: 0.645147
+Epoch 378/20000, Train Loss: 0.623154, Val Loss: 0.644961
+Model saved with validation loss: 0.644961
+Epoch 379/20000, Train Loss: 0.623088, Val Loss: 0.645163
+Epoch 380/20000, Train Loss: 0.623193, Val Loss: 0.645023
+Epoch 381/20000, Train Loss: 0.623257, Val Loss: 0.645148
+Epoch 382/20000, Train Loss: 0.623158, Val Loss: 0.644903
+Model saved with validation loss: 0.644903
+Epoch 383/20000, Train Loss: 0.623091, Val Loss: 0.644578
+Model saved with validation loss: 0.644578
+Epoch 384/20000, Train Loss: 0.623037, Val Loss: 0.644923
+Epoch 385/20000, Train Loss: 0.623069, Val Loss: 0.645275
+Epoch 386/20000, Train Loss: 0.623324, Val Loss: 0.644949
+Epoch 387/20000, Train Loss: 0.623204, Val Loss: 0.644773
+Epoch 388/20000, Train Loss: 0.623087, Val Loss: 0.644570
+Model saved with validation loss: 0.644570
+Epoch 389/20000, Train Loss: 0.622952, Val Loss: 0.644429
+Model saved with validation loss: 0.644429
+Epoch 390/20000, Train Loss: 0.622799, Val Loss: 0.644413
+Model saved with validation loss: 0.644413
+Epoch 391/20000, Train Loss: 0.622576, Val Loss: 0.644218
+Model saved with validation loss: 0.644218
+Epoch 392/20000, Train Loss: 0.622371, Val Loss: 0.644322
+Epoch 393/20000, Train Loss: 0.622354, Val Loss: 0.643912
+Model saved with validation loss: 0.643912
+Epoch 394/20000, Train Loss: 0.622359, Val Loss: 0.643830
+Model saved with validation loss: 0.643830
+Epoch 395/20000, Train Loss: 0.622448, Val Loss: 0.644241
+Epoch 396/20000, Train Loss: 0.622471, Val Loss: 0.643830
+Model saved with validation loss: 0.643830
+Epoch 397/20000, Train Loss: 0.622276, Val Loss: 0.643969
+Epoch 398/20000, Train Loss: 0.622209, Val Loss: 0.643678
+Model saved with validation loss: 0.643678
+Epoch 399/20000, Train Loss: 0.621966, Val Loss: 0.643885
+Epoch 400/20000, Train Loss: 0.622057, Val Loss: 0.643686
+Epoch 401/20000, Train Loss: 0.621952, Val Loss: 0.643775
+Epoch 402/20000, Train Loss: 0.621772, Val Loss: 0.643430
+Model saved with validation loss: 0.643430
+Epoch 403/20000, Train Loss: 0.621750, Val Loss: 0.643376
+Model saved with validation loss: 0.643376
+Epoch 404/20000, Train Loss: 0.621681, Val Loss: 0.643100
+Model saved with validation loss: 0.643100
+Epoch 405/20000, Train Loss: 0.621752, Val Loss: 0.643647
+Epoch 406/20000, Train Loss: 0.621980, Val Loss: 0.643572
+Epoch 407/20000, Train Loss: 0.621805, Val Loss: 0.643147
+Epoch 408/20000, Train Loss: 0.621864, Val Loss: 0.642977
+Model saved with validation loss: 0.642977
+Epoch 409/20000, Train Loss: 0.621666, Val Loss: 0.643441
+Epoch 410/20000, Train Loss: 0.621537, Val Loss: 0.642928
+Model saved with validation loss: 0.642928
+Epoch 411/20000, Train Loss: 0.621410, Val Loss: 0.643069
+Epoch 412/20000, Train Loss: 0.621459, Val Loss: 0.642805
+Model saved with validation loss: 0.642805
+Epoch 413/20000, Train Loss: 0.621259, Val Loss: 0.642842
+Epoch 414/20000, Train Loss: 0.621227, Val Loss: 0.642595
+Model saved with validation loss: 0.642595
+Epoch 415/20000, Train Loss: 0.621234, Val Loss: 0.642799
+Epoch 416/20000, Train Loss: 0.621320, Val Loss: 0.642999
+Epoch 417/20000, Train Loss: 0.621314, Val Loss: 0.643228
+Epoch 418/20000, Train Loss: 0.621586, Val Loss: 0.642675
+Epoch 419/20000, Train Loss: 0.621193, Val Loss: 0.642680
+Epoch 420/20000, Train Loss: 0.620930, Val Loss: 0.642319
+Model saved with validation loss: 0.642319
+Epoch 421/20000, Train Loss: 0.620837, Val Loss: 0.642329
+Epoch 422/20000, Train Loss: 0.620840, Val Loss: 0.642492
+Epoch 423/20000, Train Loss: 0.620827, Val Loss: 0.642476
+Epoch 424/20000, Train Loss: 0.620631, Val Loss: 0.642223
+Model saved with validation loss: 0.642223
+Epoch 425/20000, Train Loss: 0.620621, Val Loss: 0.641788
+Model saved with validation loss: 0.641788
+Epoch 426/20000, Train Loss: 0.620658, Val Loss: 0.641960
+Epoch 427/20000, Train Loss: 0.620433, Val Loss: 0.641795
+Epoch 428/20000, Train Loss: 0.620360, Val Loss: 0.642083
+Epoch 429/20000, Train Loss: 0.620254, Val Loss: 0.641562
+Model saved with validation loss: 0.641562
+Epoch 430/20000, Train Loss: 0.620122, Val Loss: 0.641534
+Model saved with validation loss: 0.641534
+Epoch 431/20000, Train Loss: 0.620217, Val Loss: 0.641519
+Model saved with validation loss: 0.641519
+Epoch 432/20000, Train Loss: 0.620136, Val Loss: 0.641383
+Model saved with validation loss: 0.641383
+Epoch 433/20000, Train Loss: 0.620072, Val Loss: 0.641332
+Model saved with validation loss: 0.641332
+Epoch 434/20000, Train Loss: 0.619895, Val Loss: 0.641145
+Model saved with validation loss: 0.641145
+Epoch 435/20000, Train Loss: 0.619961, Val Loss: 0.641169
+Epoch 436/20000, Train Loss: 0.620352, Val Loss: 0.641308
+Epoch 437/20000, Train Loss: 0.620051, Val Loss: 0.641093
+Model saved with validation loss: 0.641093
+Epoch 438/20000, Train Loss: 0.619934, Val Loss: 0.641081
+Model saved with validation loss: 0.641081
+Epoch 439/20000, Train Loss: 0.619745, Val Loss: 0.641327
+Epoch 440/20000, Train Loss: 0.619918, Val Loss: 0.641084
+Epoch 441/20000, Train Loss: 0.619406, Val Loss: 0.640519
+Model saved with validation loss: 0.640519
+Epoch 442/20000, Train Loss: 0.619216, Val Loss: 0.640437
+Model saved with validation loss: 0.640437
+Epoch 443/20000, Train Loss: 0.619084, Val Loss: 0.640347
+Model saved with validation loss: 0.640347
+Epoch 444/20000, Train Loss: 0.619044, Val Loss: 0.640308
+Model saved with validation loss: 0.640308
+Epoch 445/20000, Train Loss: 0.618971, Val Loss: 0.640295
+Model saved with validation loss: 0.640295
+Epoch 446/20000, Train Loss: 0.618933, Val Loss: 0.640271
+Model saved with validation loss: 0.640271
+Epoch 447/20000, Train Loss: 0.618903, Val Loss: 0.640275
+Epoch 448/20000, Train Loss: 0.618898, Val Loss: 0.640305
+Epoch 449/20000, Train Loss: 0.618870, Val Loss: 0.640174
+Model saved with validation loss: 0.640174
+Epoch 450/20000, Train Loss: 0.618801, Val Loss: 0.640047
+Model saved with validation loss: 0.640047
+Epoch 451/20000, Train Loss: 0.618792, Val Loss: 0.640125
+Epoch 452/20000, Train Loss: 0.618810, Val Loss: 0.640062
+Epoch 453/20000, Train Loss: 0.618745, Val Loss: 0.639913
+Model saved with validation loss: 0.639913
+Epoch 454/20000, Train Loss: 0.618702, Val Loss: 0.640048
+Epoch 455/20000, Train Loss: 0.618746, Val Loss: 0.639834
+Model saved with validation loss: 0.639834
+Epoch 456/20000, Train Loss: 0.618661, Val Loss: 0.639806
+Model saved with validation loss: 0.639806
+Epoch 457/20000, Train Loss: 0.618590, Val Loss: 0.639892
+Epoch 458/20000, Train Loss: 0.618599, Val Loss: 0.639789
+Model saved with validation loss: 0.639789
+Epoch 459/20000, Train Loss: 0.618633, Val Loss: 0.639881
+Epoch 460/20000, Train Loss: 0.618529, Val Loss: 0.639729
+Model saved with validation loss: 0.639729
+Epoch 461/20000, Train Loss: 0.618487, Val Loss: 0.639701
+Model saved with validation loss: 0.639701
+Epoch 462/20000, Train Loss: 0.618454, Val Loss: 0.639673
+Model saved with validation loss: 0.639673
+Epoch 463/20000, Train Loss: 0.618411, Val Loss: 0.639622
+Model saved with validation loss: 0.639622
+Epoch 464/20000, Train Loss: 0.618381, Val Loss: 0.639592
+Model saved with validation loss: 0.639592
+Epoch 465/20000, Train Loss: 0.618410, Val Loss: 0.639564
+Model saved with validation loss: 0.639564
+Epoch 466/20000, Train Loss: 0.618370, Val Loss: 0.639480
+Model saved with validation loss: 0.639480
+Epoch 467/20000, Train Loss: 0.618420, Val Loss: 0.639729
+Epoch 468/20000, Train Loss: 0.618418, Val Loss: 0.639371
+Model saved with validation loss: 0.639371
+Epoch 469/20000, Train Loss: 0.618293, Val Loss: 0.639463
+Epoch 470/20000, Train Loss: 0.618250, Val Loss: 0.639418
+Epoch 471/20000, Train Loss: 0.618227, Val Loss: 0.639535
+Epoch 472/20000, Train Loss: 0.618230, Val Loss: 0.639338
+Model saved with validation loss: 0.639338
+Epoch 473/20000, Train Loss: 0.618149, Val Loss: 0.639246
+Model saved with validation loss: 0.639246
+Epoch 474/20000, Train Loss: 0.618085, Val Loss: 0.639171
+Model saved with validation loss: 0.639171
+Epoch 475/20000, Train Loss: 0.618054, Val Loss: 0.639315
+Epoch 476/20000, Train Loss: 0.618095, Val Loss: 0.639366
+Epoch 477/20000, Train Loss: 0.618158, Val Loss: 0.639249
+Epoch 478/20000, Train Loss: 0.618061, Val Loss: 0.639187
+Epoch 479/20000, Train Loss: 0.618102, Val Loss: 0.639193
+Epoch 480/20000, Train Loss: 0.618040, Val Loss: 0.639225
+Epoch 481/20000, Train Loss: 0.617844, Val Loss: 0.638965
+Model saved with validation loss: 0.638965
+Epoch 482/20000, Train Loss: 0.617760, Val Loss: 0.638933
+Model saved with validation loss: 0.638933
+Epoch 483/20000, Train Loss: 0.617735, Val Loss: 0.638856
+Model saved with validation loss: 0.638856
+Epoch 484/20000, Train Loss: 0.617747, Val Loss: 0.638895
+Epoch 485/20000, Train Loss: 0.617730, Val Loss: 0.638832
+Model saved with validation loss: 0.638832
+Epoch 486/20000, Train Loss: 0.617702, Val Loss: 0.638900
+Epoch 487/20000, Train Loss: 0.617673, Val Loss: 0.638770
+Model saved with validation loss: 0.638770
+Epoch 488/20000, Train Loss: 0.617676, Val Loss: 0.638875
+Epoch 489/20000, Train Loss: 0.617668, Val Loss: 0.638806
+Epoch 490/20000, Train Loss: 0.617640, Val Loss: 0.638750
+Model saved with validation loss: 0.638750
+Epoch 491/20000, Train Loss: 0.617637, Val Loss: 0.638712
+Model saved with validation loss: 0.638712
+Epoch 492/20000, Train Loss: 0.617591, Val Loss: 0.638734
+Epoch 493/20000, Train Loss: 0.617602, Val Loss: 0.638695
+Model saved with validation loss: 0.638695
+Epoch 494/20000, Train Loss: 0.617581, Val Loss: 0.638619
+Model saved with validation loss: 0.638619
+Epoch 495/20000, Train Loss: 0.617565, Val Loss: 0.638662
+Epoch 496/20000, Train Loss: 0.617582, Val Loss: 0.638701
+Epoch 497/20000, Train Loss: 0.617557, Val Loss: 0.638671
+Epoch 498/20000, Train Loss: 0.617524, Val Loss: 0.638632
+Epoch 499/20000, Train Loss: 0.617523, Val Loss: 0.638570
+Model saved with validation loss: 0.638570
+Epoch 500/20000, Train Loss: 0.617508, Val Loss: 0.638532
+Model saved with validation loss: 0.638532
+Epoch 501/20000, Train Loss: 0.617466, Val Loss: 0.638549
+Epoch 502/20000, Train Loss: 0.617442, Val Loss: 0.638451
+Model saved with validation loss: 0.638451
+Epoch 503/20000, Train Loss: 0.617441, Val Loss: 0.638493
+Epoch 504/20000, Train Loss: 0.617444, Val Loss: 0.638500
+Epoch 505/20000, Train Loss: 0.617406, Val Loss: 0.638418
+Model saved with validation loss: 0.638418
+Epoch 506/20000, Train Loss: 0.617390, Val Loss: 0.638463
+Epoch 507/20000, Train Loss: 0.617384, Val Loss: 0.638351
+Model saved with validation loss: 0.638351
+Epoch 508/20000, Train Loss: 0.617361, Val Loss: 0.638403
+Epoch 509/20000, Train Loss: 0.617356, Val Loss: 0.638321
+Model saved with validation loss: 0.638321
+Epoch 510/20000, Train Loss: 0.617338, Val Loss: 0.638376
+Epoch 511/20000, Train Loss: 0.617323, Val Loss: 0.638341
+Epoch 512/20000, Train Loss: 0.617324, Val Loss: 0.638289
+Model saved with validation loss: 0.638289
+Epoch 513/20000, Train Loss: 0.617271, Val Loss: 0.638220
+Model saved with validation loss: 0.638220
+Epoch 514/20000, Train Loss: 0.617256, Val Loss: 0.638319
+Epoch 515/20000, Train Loss: 0.617242, Val Loss: 0.638270
+Epoch 516/20000, Train Loss: 0.617223, Val Loss: 0.638237
+Epoch 517/20000, Train Loss: 0.617217, Val Loss: 0.638235
+Epoch 518/20000, Train Loss: 0.617207, Val Loss: 0.638172
+Model saved with validation loss: 0.638172
+Epoch 519/20000, Train Loss: 0.617171, Val Loss: 0.638193
+Epoch 520/20000, Train Loss: 0.617128, Val Loss: 0.638173
+Epoch 521/20000, Train Loss: 0.617110, Val Loss: 0.638218
+Epoch 522/20000, Train Loss: 0.617099, Val Loss: 0.638127
+Model saved with validation loss: 0.638127
+Epoch 523/20000, Train Loss: 0.617094, Val Loss: 0.638099
+Model saved with validation loss: 0.638099
+Epoch 524/20000, Train Loss: 0.617081, Val Loss: 0.638102
+Epoch 525/20000, Train Loss: 0.617062, Val Loss: 0.638119
+Epoch 526/20000, Train Loss: 0.617055, Val Loss: 0.638102
+Epoch 527/20000, Train Loss: 0.617059, Val Loss: 0.638088
+Model saved with validation loss: 0.638088
+Epoch 528/20000, Train Loss: 0.617044, Val Loss: 0.638118
+Epoch 529/20000, Train Loss: 0.617018, Val Loss: 0.638106
+Epoch 530/20000, Train Loss: 0.617012, Val Loss: 0.638064
+Model saved with validation loss: 0.638064
+Epoch 531/20000, Train Loss: 0.617009, Val Loss: 0.638047
+Model saved with validation loss: 0.638047
+Epoch 532/20000, Train Loss: 0.617012, Val Loss: 0.638069
+Epoch 533/20000, Train Loss: 0.616995, Val Loss: 0.638074
+Epoch 534/20000, Train Loss: 0.616991, Val Loss: 0.638047
+Epoch 535/20000, Train Loss: 0.616987, Val Loss: 0.638038
+Model saved with validation loss: 0.638038
+Epoch 536/20000, Train Loss: 0.616980, Val Loss: 0.638063
+Epoch 537/20000, Train Loss: 0.616976, Val Loss: 0.638004
+Model saved with validation loss: 0.638004
+Epoch 538/20000, Train Loss: 0.616967, Val Loss: 0.638016
+Epoch 539/20000, Train Loss: 0.616965, Val Loss: 0.638014
+Epoch 540/20000, Train Loss: 0.616957, Val Loss: 0.638006
+Epoch 541/20000, Train Loss: 0.616958, Val Loss: 0.638020
+Epoch 542/20000, Train Loss: 0.616955, Val Loss: 0.638024
+Epoch 543/20000, Train Loss: 0.616953, Val Loss: 0.638017
+Epoch 544/20000, Train Loss: 0.616951, Val Loss: 0.637990
+Model saved with validation loss: 0.637990
+Epoch 545/20000, Train Loss: 0.616944, Val Loss: 0.638011
+Epoch 546/20000, Train Loss: 0.616949, Val Loss: 0.637999
+Epoch 547/20000, Train Loss: 0.616944, Val Loss: 0.637998
+Epoch 548/20000, Train Loss: 0.616947, Val Loss: 0.637993
+Epoch 549/20000, Train Loss: 0.616942, Val Loss: 0.638015
+Epoch 550/20000, Train Loss: 0.616944, Val Loss: 0.638006
+Epoch 551/20000, Train Loss: 0.616941, Val Loss: 0.637985
+Model saved with validation loss: 0.637985
+Epoch 552/20000, Train Loss: 0.616937, Val Loss: 0.638001
+Epoch 553/20000, Train Loss: 0.616942, Val Loss: 0.637981
+Model saved with validation loss: 0.637981
+Epoch 554/20000, Train Loss: 0.616939, Val Loss: 0.637998
+Epoch 555/20000, Train Loss: 0.616943, Val Loss: 0.638009
+Epoch 556/20000, Train Loss: 0.616935, Val Loss: 0.638006
+Epoch 557/20000, Train Loss: 0.616935, Val Loss: 0.637987
+Epoch 558/20000, Train Loss: 0.616940, Val Loss: 0.637979
+Model saved with validation loss: 0.637979
+Epoch 559/20000, Train Loss: 0.616941, Val Loss: 0.637992
+Epoch 560/20000, Train Loss: 0.616934, Val Loss: 0.638000
+Epoch 561/20000, Train Loss: 0.616933, Val Loss: 0.637975
+Model saved with validation loss: 0.637975
+Epoch 562/20000, Train Loss: 0.616938, Val Loss: 0.637994
+Epoch 563/20000, Train Loss: 0.616936, Val Loss: 0.637974
+Model saved with validation loss: 0.637974
+Epoch 564/20000, Train Loss: 0.616934, Val Loss: 0.637991
+Epoch 565/20000, Train Loss: 0.616938, Val Loss: 0.637995
+Epoch 566/20000, Train Loss: 0.616932, Val Loss: 0.637995
+Epoch 567/20000, Train Loss: 0.616933, Val Loss: 0.637978
+Epoch 568/20000, Train Loss: 0.616934, Val Loss: 0.637993
+Epoch 569/20000, Train Loss: 0.616932, Val Loss: 0.637995
+Epoch 570/20000, Train Loss: 0.616936, Val Loss: 0.637977
+Epoch 571/20000, Train Loss: 0.616935, Val Loss: 0.637978
+Epoch 572/20000, Train Loss: 0.616935, Val Loss: 0.637978
+Epoch 573/20000, Train Loss: 0.616932, Val Loss: 0.637991
+Epoch 574/20000, Train Loss: 0.616935, Val Loss: 0.637977
+Epoch 575/20000, Train Loss: 0.616934, Val Loss: 0.637977
+Epoch 576/20000, Train Loss: 0.616935, Val Loss: 0.637977
+Epoch 577/20000, Train Loss: 0.616934, Val Loss: 0.637976
+Epoch 578/20000, Train Loss: 0.616933, Val Loss: 0.637992
+Early stopping triggered after 578 epochs

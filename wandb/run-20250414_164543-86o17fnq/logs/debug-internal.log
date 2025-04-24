@@ -1,0 +1,18 @@
+{"time":"2025-04-14T16:45:43.6679456-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-14T16:45:43.6679456-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\wandb\\run-20250414_164543-86o17fnq\\logs\\debug-core.log"}
+{"time":"2025-04-14T16:45:43.7793067-07:00","level":"INFO","msg":"created new stream","id":"86o17fnq"}
+{"time":"2025-04-14T16:45:43.7793067-07:00","level":"INFO","msg":"stream: started","id":"86o17fnq"}
+{"time":"2025-04-14T16:45:43.7793067-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"86o17fnq"}}
+{"time":"2025-04-14T16:45:43.7793067-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"86o17fnq"}}
+{"time":"2025-04-14T16:45:43.7793067-07:00","level":"INFO","msg":"sender: started","stream_id":"86o17fnq"}
+{"time":"2025-04-14T16:45:43.9727548-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-14T16:45:53.9743066-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-14T16:47:54.3122548-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-14T16:47:54.3133457-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-14T16:47:54.9585774-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-14T16:47:55.0978767-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-14T16:47:56.1482779-07:00","level":"INFO","msg":"stream: closing","id":"86o17fnq"}
+{"time":"2025-04-14T16:47:56.1482779-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"86o17fnq"}}
+{"time":"2025-04-14T16:47:56.1482779-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"86o17fnq"}}
+{"time":"2025-04-14T16:47:56.1482779-07:00","level":"INFO","msg":"sender: closed","stream_id":"86o17fnq"}
+{"time":"2025-04-14T16:47:56.14887-07:00","level":"INFO","msg":"stream: closed","id":"86o17fnq"}

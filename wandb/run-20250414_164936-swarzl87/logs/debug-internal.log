@@ -1,0 +1,18 @@
+{"time":"2025-04-14T16:49:36.6571435-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-14T16:49:36.6571435-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\wandb\\run-20250414_164936-swarzl87\\logs\\debug-core.log"}
+{"time":"2025-04-14T16:49:36.7811173-07:00","level":"INFO","msg":"created new stream","id":"swarzl87"}
+{"time":"2025-04-14T16:49:36.7817011-07:00","level":"INFO","msg":"stream: started","id":"swarzl87"}
+{"time":"2025-04-14T16:49:36.7817011-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"swarzl87"}}
+{"time":"2025-04-14T16:49:36.7817011-07:00","level":"INFO","msg":"sender: started","stream_id":"swarzl87"}
+{"time":"2025-04-14T16:49:36.7817011-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"swarzl87"}}
+{"time":"2025-04-14T16:49:37.0439643-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-14T16:49:47.0442893-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-14T16:49:59.3374636-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-14T16:49:59.3379711-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-14T16:49:59.9022289-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-14T16:50:00.0479966-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-14T16:50:01.0987302-07:00","level":"INFO","msg":"stream: closing","id":"swarzl87"}
+{"time":"2025-04-14T16:50:01.0987302-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"swarzl87"}}
+{"time":"2025-04-14T16:50:01.0987302-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"swarzl87"}}
+{"time":"2025-04-14T16:50:01.0987302-07:00","level":"INFO","msg":"sender: closed","stream_id":"swarzl87"}
+{"time":"2025-04-14T16:50:01.1000506-07:00","level":"INFO","msg":"stream: closed","id":"swarzl87"}

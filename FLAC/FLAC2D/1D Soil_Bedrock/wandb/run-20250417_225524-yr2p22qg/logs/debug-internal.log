@@ -1,0 +1,18 @@
+{"time":"2025-04-17T22:55:24.02321-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-17T22:55:24.02321-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250417_225524-yr2p22qg\\logs\\debug-core.log"}
+{"time":"2025-04-17T22:55:24.7653695-07:00","level":"INFO","msg":"created new stream","id":"yr2p22qg"}
+{"time":"2025-04-17T22:55:24.7653695-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"yr2p22qg"}}
+{"time":"2025-04-17T22:55:24.7653695-07:00","level":"INFO","msg":"stream: started","id":"yr2p22qg"}
+{"time":"2025-04-17T22:55:24.7653695-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"yr2p22qg"}}
+{"time":"2025-04-17T22:55:24.76601-07:00","level":"INFO","msg":"sender: started","stream_id":"yr2p22qg"}
+{"time":"2025-04-17T22:55:25.2829191-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-17T22:55:35.2831402-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-17T23:00:08.492305-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-17T23:00:08.493818-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-17T23:00:09.498837-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4783058,"progress":"35.6KB/35.6KB"}],"total_operations":1}}
+{"time":"2025-04-17T23:00:09.5254516-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-17T23:00:11.0136086-07:00","level":"INFO","msg":"stream: closing","id":"yr2p22qg"}
+{"time":"2025-04-17T23:00:11.0136086-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"yr2p22qg"}}
+{"time":"2025-04-17T23:00:11.0136086-07:00","level":"INFO","msg":"sender: closed","stream_id":"yr2p22qg"}
+{"time":"2025-04-17T23:00:11.0136086-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"yr2p22qg"}}
+{"time":"2025-04-17T23:00:11.0136086-07:00","level":"INFO","msg":"stream: closed","id":"yr2p22qg"}

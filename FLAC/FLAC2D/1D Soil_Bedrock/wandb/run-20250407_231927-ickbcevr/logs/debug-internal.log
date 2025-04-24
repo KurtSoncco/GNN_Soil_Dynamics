@@ -1,0 +1,20 @@
+{"time":"2025-04-07T23:19:27.5007496-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-07T23:19:27.5007496-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250407_231927-ickbcevr\\logs\\debug-core.log"}
+{"time":"2025-04-07T23:19:27.7318193-07:00","level":"INFO","msg":"created new stream","id":"ickbcevr"}
+{"time":"2025-04-07T23:19:27.7324276-07:00","level":"INFO","msg":"stream: started","id":"ickbcevr"}
+{"time":"2025-04-07T23:19:27.7324276-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ickbcevr"}}
+{"time":"2025-04-07T23:19:27.7324276-07:00","level":"INFO","msg":"sender: started","stream_id":"ickbcevr"}
+{"time":"2025-04-07T23:19:27.7324276-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ickbcevr"}}
+{"time":"2025-04-07T23:19:29.02823-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-07T23:19:39.0283412-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-07T23:19:39.5661683-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-07T23:19:39.5681317-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-07T23:19:40.5821878-07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.0119725}],"total_operations":1}}
+{"time":"2025-04-07T23:19:58.918905-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.42.13.1:50726->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-07T23:19:58.918905-07:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.42.13.1:50726->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-04-07T23:20:02.5942313-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-07T23:20:04.3056013-07:00","level":"INFO","msg":"stream: closing","id":"ickbcevr"}
+{"time":"2025-04-07T23:20:04.3056013-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ickbcevr"}}
+{"time":"2025-04-07T23:20:04.3056013-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ickbcevr"}}
+{"time":"2025-04-07T23:20:04.3056013-07:00","level":"INFO","msg":"sender: closed","stream_id":"ickbcevr"}
+{"time":"2025-04-07T23:20:04.3056013-07:00","level":"INFO","msg":"stream: closed","id":"ickbcevr"}

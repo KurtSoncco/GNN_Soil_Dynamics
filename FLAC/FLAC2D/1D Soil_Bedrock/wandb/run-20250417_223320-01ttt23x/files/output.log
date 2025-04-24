@@ -1,0 +1,66 @@
+Epoch 1/1000, Train Loss: 380.771943, Val Loss: 38.933969, LR: 1.00e-03
+Model saved with validation loss: 38.933969
+Epoch 2/1000, Train Loss: 32.547383, Val Loss: 27.450600, LR: 1.00e-03
+Model saved with validation loss: 27.450600
+Epoch 3/1000, Train Loss: 25.746347, Val Loss: 23.976260, LR: 1.00e-03
+Model saved with validation loss: 23.976260
+Epoch 4/1000, Train Loss: 23.906306, Val Loss: 22.989617, LR: 1.00e-03
+Model saved with validation loss: 22.989617
+Epoch 5/1000, Train Loss: 22.635178, Val Loss: 22.509971, LR: 1.00e-03
+Model saved with validation loss: 22.509971
+Epoch 6/1000, Train Loss: 22.129507, Val Loss: 22.696578, LR: 1.00e-03
+Epoch 7/1000, Train Loss: 22.019964, Val Loss: 21.909940, LR: 1.00e-03
+Model saved with validation loss: 21.909940
+Epoch 8/1000, Train Loss: 21.550365, Val Loss: 21.525923, LR: 1.00e-03
+Model saved with validation loss: 21.525923
+Epoch 9/1000, Train Loss: 21.433009, Val Loss: 22.294794, LR: 1.00e-03
+Epoch 10/1000, Train Loss: 21.112037, Val Loss: 20.945859, LR: 1.00e-03
+Model saved with validation loss: 20.945859
+Epoch 11/1000, Train Loss: 20.455390, Val Loss: 20.874702, LR: 1.00e-03
+Model saved with validation loss: 20.874702
+Epoch 12/1000, Train Loss: 20.282795, Val Loss: 20.328668, LR: 1.00e-03
+Model saved with validation loss: 20.328668
+Epoch 13/1000, Train Loss: 19.830771, Val Loss: 20.471704, LR: 1.00e-03
+Epoch 14/1000, Train Loss: 19.558397, Val Loss: 19.686564, LR: 1.00e-03
+Model saved with validation loss: 19.686564
+Epoch 15/1000, Train Loss: 19.277183, Val Loss: 19.436195, LR: 1.00e-03
+Model saved with validation loss: 19.436195
+Epoch 16/1000, Train Loss: 19.127668, Val Loss: 19.601230, LR: 1.00e-03
+Epoch 17/1000, Train Loss: 18.889701, Val Loss: 19.745358, LR: 1.00e-03
+Epoch 18/1000, Train Loss: 19.024259, Val Loss: 19.565307, LR: 1.00e-03
+Epoch 19/1000, Train Loss: 18.518800, Val Loss: 19.284472, LR: 1.00e-03
+Model saved with validation loss: 19.284472
+Epoch 20/1000, Train Loss: 18.642466, Val Loss: 19.291383, LR: 1.00e-03
+Epoch 21/1000, Train Loss: 18.449415, Val Loss: 19.390649, LR: 1.00e-03
+Epoch 22/1000, Train Loss: 18.191503, Val Loss: 18.485911, LR: 1.00e-03
+Model saved with validation loss: 18.485911
+Epoch 23/1000, Train Loss: 17.790773, Val Loss: 18.286877, LR: 1.00e-03
+Model saved with validation loss: 18.286877
+Epoch 24/1000, Train Loss: 17.436346, Val Loss: 18.186854, LR: 1.00e-03
+Model saved with validation loss: 18.186854
+Epoch 25/1000, Train Loss: 17.258824, Val Loss: 18.281484, LR: 1.00e-03
+Epoch 26/1000, Train Loss: 17.356546, Val Loss: 17.938323, LR: 1.00e-03
+Model saved with validation loss: 17.938323
+Epoch 27/1000, Train Loss: 17.406945, Val Loss: 17.955980, LR: 1.00e-03
+Epoch 28/1000, Train Loss: 17.043397, Val Loss: 18.478421, LR: 1.00e-03
+Epoch 29/1000, Train Loss: 16.618917, Val Loss: 18.915398, LR: 1.00e-03
+Epoch 30/1000, Train Loss: 16.555673, Val Loss: 17.372214, LR: 1.00e-03
+Model saved with validation loss: 17.372214
+Epoch 31/1000, Train Loss: 16.503305, Val Loss: 18.316040, LR: 1.00e-03
+Epoch 32/1000, Train Loss: 16.174753, Val Loss: 16.866687, LR: 1.00e-03
+Model saved with validation loss: 16.866687
+Epoch 33/1000, Train Loss: 15.840631, Val Loss: 16.586511, LR: 1.00e-03
+[{"variableName": "TTF_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "Vs_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "X", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "X_try", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "corr_coefficients", "type": "list", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.list"}, {"variableName": "dummy_input", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "f0_vals", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "freq_data", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "history", "type": "dictionary", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "builtins.dict"}, {"variableName": "idx", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "inputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "loss", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "output", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "outputs", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "random_indices", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "targets", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "test_inputs", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "test_predictions", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "test_targets", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "vs_test", "type": "ndarray", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "numpy.ndarray"}, {"variableName": "x", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}, {"variableName": "y", "type": "tensor", "supportedEngines": ["pandas"], "isLocalVariable": false, "rawType": "torch.Tensor"}]
+(1000, 1000) (1000, 29) (1000,)
+(836, 1000) (836, 29) (1000,)
+Sizes in the dataset:  836
+Data shapes for input and target:  torch.Size([29]) torch.Size([1000])
+Train, validation and test sizes:  418 209 209
+Number of batches:  5 3 3
+torch.Size([100, 29]) torch.Size([100, 1000])
+torch.Size([50, 200, 64])
+Input shape: torch.Size([100, 29])
+Output shape: torch.Size([100, 1000])
+Using device: cuda
+c:\Users\kurt-\miniconda3\envs\ML\Lib\site-packages\torch\optim\lr_scheduler.py:60: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(

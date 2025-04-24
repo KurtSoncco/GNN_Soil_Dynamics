@@ -1,0 +1,18 @@
+{"time":"2025-04-14T16:34:58.8380186-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-14T16:34:58.8380186-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\wandb\\run-20250414_163458-8dv8396n\\logs\\debug-core.log"}
+{"time":"2025-04-14T16:34:58.9935524-07:00","level":"INFO","msg":"created new stream","id":"8dv8396n"}
+{"time":"2025-04-14T16:34:58.995718-07:00","level":"INFO","msg":"stream: started","id":"8dv8396n"}
+{"time":"2025-04-14T16:34:58.995718-07:00","level":"INFO","msg":"sender: started","stream_id":"8dv8396n"}
+{"time":"2025-04-14T16:34:58.995718-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"8dv8396n"}}
+{"time":"2025-04-14T16:34:58.9951412-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"8dv8396n"}}
+{"time":"2025-04-14T16:34:59.6495309-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-14T16:35:09.6529663-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-14T16:36:27.9997835-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-14T16:36:28.0020742-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-14T16:36:28.5316097-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-14T16:36:28.668153-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-14T16:36:29.6979833-07:00","level":"INFO","msg":"stream: closing","id":"8dv8396n"}
+{"time":"2025-04-14T16:36:29.6979833-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"8dv8396n"}}
+{"time":"2025-04-14T16:36:29.6979833-07:00","level":"INFO","msg":"sender: closed","stream_id":"8dv8396n"}
+{"time":"2025-04-14T16:36:29.6979833-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"8dv8396n"}}
+{"time":"2025-04-14T16:36:29.6979833-07:00","level":"INFO","msg":"stream: closed","id":"8dv8396n"}

@@ -1,0 +1,18 @@
+{"time":"2025-04-08T13:46:45.8925682-07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2025-04-08T13:46:45.893107-07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\kurt-\\Documents\\GitHub\\GNN_Soil_Dynamics\\FLAC\\FLAC2D\\1D Soil_Bedrock\\wandb\\run-20250408_134645-ct30rabv\\logs\\debug-core.log"}
+{"time":"2025-04-08T13:46:46.0288123-07:00","level":"INFO","msg":"created new stream","id":"ct30rabv"}
+{"time":"2025-04-08T13:46:46.0288123-07:00","level":"INFO","msg":"stream: started","id":"ct30rabv"}
+{"time":"2025-04-08T13:46:46.0288123-07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ct30rabv"}}
+{"time":"2025-04-08T13:46:46.0288123-07:00","level":"INFO","msg":"sender: started","stream_id":"ct30rabv"}
+{"time":"2025-04-08T13:46:46.0288123-07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ct30rabv"}}
+{"time":"2025-04-08T13:46:46.2881421-07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-08T13:46:56.2891208-07:00","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2025-04-08T13:46:57.1576005-07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-08T13:46:57.1581295-07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-08T13:46:57.5907002-07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-08T13:46:57.7615339-07:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-08T13:46:58.8008802-07:00","level":"INFO","msg":"stream: closing","id":"ct30rabv"}
+{"time":"2025-04-08T13:46:58.8008802-07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ct30rabv"}}
+{"time":"2025-04-08T13:46:58.8008802-07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ct30rabv"}}
+{"time":"2025-04-08T13:46:58.8008802-07:00","level":"INFO","msg":"sender: closed","stream_id":"ct30rabv"}
+{"time":"2025-04-08T13:46:58.801434-07:00","level":"INFO","msg":"stream: closed","id":"ct30rabv"}
